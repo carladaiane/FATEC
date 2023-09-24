@@ -58,7 +58,7 @@ while True:
     if maius(senha) == False:
         a = print(f'\nSenha Inválida: Necessário 1 letra maius')
     if qtd(senha) == False:
-        a = print(f'\nSenha Inválida: qtd mínima de caracter é 8')
+        a = print(f'\nSenha Inválida: Quantidade mínima de caracter é 8')
     if numero(senha) == False:
         a = print(f'\nSenha Inválida: Necessário 1 número')
     if especial(senha) == False:
