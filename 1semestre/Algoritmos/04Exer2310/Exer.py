@@ -90,7 +90,15 @@ def middle_way(a, b):
 # date_fashion(5, 2) -> 0
 # date_fashion(5, 5) -> 1
 def date_fashion(eu, par):
-  return
+    num = range(2, 8)
+    if eu <=2 or par <=2:
+        return 0
+    elif eu>=8 or par>=8:
+        return 2
+
+    elif(eu in num) or (par in num):
+        return 1
+
 
 # H. squirrel_play
 # os esquilos na FATEC brincam quando a temperatura está entre 60 e 90
