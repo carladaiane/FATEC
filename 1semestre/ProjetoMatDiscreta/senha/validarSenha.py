@@ -1,8 +1,6 @@
 import os
 import platform
 
-so = str(os.name)
-
 ce1 = list(map(chr, range(33, 48)))
 ce2 = list(map(chr, range(58, 65)))
 ce3 = list(map(chr, range(91, 97)))
