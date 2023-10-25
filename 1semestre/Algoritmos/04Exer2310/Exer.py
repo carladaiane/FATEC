@@ -44,8 +44,7 @@ def maior_ponta(nums):
             c.append(d)
     else:
         while len(c)<3:
-            c.append(e)
-            
+            c.append(e)       
     return c
 
 # E. sum2
@@ -71,7 +70,6 @@ def middle_way(a, b):
     f = []
     f.append(c)
     f.append(d)
-
     return f
 
 
@@ -95,7 +93,6 @@ def date_fashion(eu, par):
         return 0
     elif eu>=8 or par>=8:
         return 2
-
     elif(eu in num) or (par in num):
         return 1
 
@@ -108,10 +105,24 @@ def date_fashion(eu, par):
 # squirrel_play(70, False) -> True
 # squirrel_play(95, False) -> False
 # squirrel_play(95, True) -> True
-def squirrel_play(temp, is_summer):
-    
 
-  return
+def squirrel_play(temp, is_summer):
+
+    if is_summer == True:
+        if temp >=60 and temp<=100:
+            return True
+
+        else:
+            return False
+
+    if is_summer == False:
+        if temp >=60 and temp<=90:
+            return True
+
+        else:
+            return False
+
+
 
 # I. pego_correndo
 # você foi pego correndo
@@ -128,18 +139,23 @@ def squirrel_play(temp, is_summer):
 # pego_correndo(65, True) -> 0 
 def pego_correndo(speed, is_birthday):
 
-    num = range(60, 81)
 
     if is_birthday == True:
-        speed+=5
-    else:
-        speed
-    
 
+        if speed <=65:
+            return 0
+        
+        elif speed >=66 and speed <=85:
+            return 1
+
+        elif speed >=90:
+            return 2
+        
+    
     if speed <=60:
         return 0
 
-    elif speed in num:
+    elif speed >=61 and speed <=80:
         return 1
 
     elif speed >81:
