@@ -1,25 +1,17 @@
 num = int(input('\n Digite um número inteiro:'))
 
-if num%2 >0:
-    print(f'{num} é impar')
-else:
-    print(f'{num} é par')
-
 list = []
 
-while len(list)<=13:
+while len(list)<=14:
 
     num = num+1
     list.append(num)
 
-print(list)
+for elemento in range(list):
 
-
-for i in range(len(list)):
-
-    if list[i]%2 >0:
-        print(f'{list[i]} é impar')
+    if list[elemento]%2 >0:
+        print(f'{list[elemento]} é impar')
     else:
-        print(f'{list[i]} é par')
+        print(f'{list[elemento]} é par')
 
 
