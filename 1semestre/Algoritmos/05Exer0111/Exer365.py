@@ -1,61 +1,37 @@
-
-""" Uma pessoa muito organizada gostaria de fazer um algoritmo para armazenar os
-seguintes dados de um talonário após a utilização total do mesmo: n2do cheque,
-valor, data e destino. Sabendo-se que o número de cheques pode ser variável e
-não ultrapassa 20, construa esse algoritmo de tal maneira que possa gerar um relatório no vídeo. """
-
-
 banco = []
 
-""" nome = input('\n Digite o número do cheque: ')
+while len(banco)<=20:
 
-idade = input('\n Digite o valor do cheque: ') """
-
-""" input('\n Digite a data do cheque: ')
-
-input('\n Digite o destinodo cheque: ')
- """
-
-
-while len(banco)<=3:
-    nome = input('\n Digite o número do cheque: ')
-    idade = input('\n Digite o valor do cheque: ')
-    banco.append({"nome":nome, "idade":idade})
-
-    if len(banco)==3:
+    if len(banco)==20:
+        print('\n ATENÇÃO!! Limite máximo de registro de cheque atingido')
         break
+        
+    num = input('\n Digite o numero do cheque: ')
+    valor = input('\n Digite o valor do cheque: ')
+    data = input('\n Digite a data do cheque: ')
+    destino = input('\n Digite o destinoo cheque: ')
 
+    banco.append({"num":num, "valor":valor, "data":data, "destino": destino})
 
+    print('\n Cheque cadastrado com sucesso!!')
 
-print(banco)
+    resp = input('\n Deseja cadastrar outro?(s ou n):')
 
+    if resp in 'nãao':
+        break
+    
+    else:
+        True
 
-
-
-
-""" prog vetor13
-string num[20], valor[20], destino[20], data[20], resp;
-int nc, k;
-imprima "\nnumero de cheques do talonario:
-leia nc;
-para( k <- O; k < nc; k++)
-{ imprima "\nnumero do cheque:
-leia num[k];
-imprima "\nvaor do cheque:
-leia valor[k];
-imprima "\ndata do cheque ddmmaa:
-leia data[k];
-imprima "\ndestino do cheque:
-leia destino[k];
-}
-imprima "\nRELACAO dos CHEQUES\n";
-para( k <-O; k < nc; k++)
-{ imprima "\nNumero do cheque: ', num[k];
-imprima "\nValor do cheque: ", valor[k];
-imprima "\nData do cheque: ", data[k];
-imprima "\nDestino do cheque: ", num[k];
-imprima "\n\nPressione enter para ver outro cheque:
-leia resp; # necessario pois a tela so tem 25 linhas
-}
-imprima "\n";
-fimprog  """
+cont = 0
+print('\n')
+print('\nRelatório\n')
+for dicionario in banco:
+    cont = cont+1
+    print('----------------------------------------')
+    print(f'\n Cheque ID {cont}\n')
+    print(f"N°: {dicionario['num']}")
+    print(f"Valor: {dicionario['valor']}")
+    print(f"Data: {dicionario['data']}")
+    print(f"Destino: {dicionario['destino']}")
+    print('\n')
