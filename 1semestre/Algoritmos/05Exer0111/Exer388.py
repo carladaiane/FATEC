@@ -6,7 +6,7 @@ while len(lista)<=9:
 
     cont = cont+1
 
-    num = int(input(f'\nDigite um número o {cont}º: '))
+    num = int(input(f'\nDigite o {cont}º valor: '))
 
     lista.append(num)
     
