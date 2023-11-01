@@ -1,5 +1,4 @@
 lista = []
-
 cont = 0
 
 while len(lista)<=9:
