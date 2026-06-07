@@ -2,14 +2,16 @@
 # Carla Daiane Freitas dos Santos Araujo
 
 ## Descrição
+
 <div align="justify">
-Formada em Logística em 2022, iniciei minha trajetória na área de Tecnologia da Informação em 2021, quando tive a oportunidade de realizar um curso de Desenvolvimento em Python. A experiência despertou meu interesse pela área e motivou minha transição profissional para a tecnologia.
 
-Atualmente, atuo há cerca de três anos como Analista de Testes de Software, trabalhando com validação de sistemas, elaboração de cenários de teste, análise de requisitos e garantia da qualidade de software. Essa vivência prática tem contribuído significativamente para meu desenvolvimento técnico e profissional.
+  Formada em Logística em 2022, iniciei minha trajetória na área de Tecnologia da Informação em 2021, quando tive a oportunidade de realizar um curso de Desenvolvimento em Python. A experiência despertou meu interesse pela área e motivou minha transição profissional para a tecnologia. 
+  
+  Atualmente, atuo há cerca de três anos como Analista de Testes de Software, trabalhando com validação de sistemas, elaboração de cenários de teste, análise de requisitos e garantia da qualidade de software. Essa vivência prática tem contribuído significativamente para meu desenvolvimento técnico e profissional.
 
-Em busca de ampliar meus conhecimentos e fortalecer minha formação na área de tecnologia, ingressei na FATEC, onde venho desenvolvendo competências em desenvolvimento de software, banco de dados e engenharia de software. Acredito que o aprendizado contínuo, a dedicação e a busca constante por evolução são fundamentais para construir uma carreira sólida.
-
-Embora ainda esteja construindo meu portfólio de projetos e ampliando minha participação em eventos da área, procuro aproveitar cada oportunidade de aprendizado e desenvolvimento, sempre com o objetivo de crescer profissionalmente e contribuir de forma significativa para os projetos dos quais participo.
+  Em busca de ampliar meus conhecimentos e fortalecer minha formação na área de tecnologia, ingressei na FATEC, onde venho desenvolvendo competências em desenvolvimento de software, banco de dados e engenharia de software. Acredito que o aprendizado contínuo, a dedicação e a busca constante por evolução são fundamentais para construir uma carreira sólida.
+  
+  Embora ainda esteja construindo meu portfólio de projetos e ampliando minha participação em eventos da área, procuro aproveitar cada oportunidade de aprendizado e desenvolvimento, sempre com o objetivo de crescer profissionalmente e contribuir de forma significativa para os projetos dos quais participo.
 
 </div>
 
