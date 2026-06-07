@@ -193,14 +193,48 @@ Durante o segundo semestre de 2024 (período 2024-1), desenvolvemos a aplicaçã
 <details>
   <summary><strong>5° Semestre - 2025.2</strong></summary>
 
-### Exemplo Disciplinas
-- Laboratório de Desenvolvimento em Banco de Dados I
-- Fundamentos da Administração Geral
-- Comunicação e Expressão
-- Algoritmos e Lógica de Programação
+### Missão
+<div align="justify">
+Desenvolver uma plataforma analítica web para gestão de projetos, responsável pela integração de dados via API, consolidação das informações em um Data Warehouse e geração de indicadores, dashboards e relatórios gerenciais. A solução conta com controle de acesso por perfil e foi desenvolvida em parceria com a Necto.
+</div>
 
-### Descrição
-Em breve teremos a descrição.
+<br/>
+<p>
+  <a href="https://github.com/AthosFatecSjc/Athos_Insight" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### Contribuições Pessoais
+
+<div align="justify">
+Atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+</div>
+
+### Hard Skills
+
+* **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
+
+* **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
+
+* **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
+
+* **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
+
+* **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
+
+  
+### Soft Skills
+
+* **Scrum Master:** Organização das cerimônias ágeis, acompanhamento das sprints e apoio na comunicação entre os integrantes da equipe.
+
+* **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
+
+* **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
+
+* **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
+
+* **Organização:** Auxílio no planejamento das atividades e acompanhamento do andamento das entregas.
 
 </details>
 
@@ -219,6 +253,14 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
     <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+### Tecnologias Utilizadas
+* **Java 21 / Spring Boot:** Backend.
+* **Vue 3 / Vuetify / TypeScript:** Frontend.
+* **PostgreSQL:** Banco de dados principal.
+* **MongoDB:** Banco de dados para logs e auditoria.
+* **Docker:** Containerização e deploy.
+* **Vite:** Build tool do frontend.
 
 ### Contribuições Pessoais
 
