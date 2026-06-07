@@ -75,44 +75,44 @@ Developer no time, tive minha primeira experiência em um projeto de desenvolvim
 
 <details>
   <summary><strong>2° Semestre - 2024.1</strong></summary>
+
+### Missão
+
+<div align="justify">
+Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáticos de cidades do estado de São Paulo, permitindo a geração de relatórios estatísticos e consultas a partir de informações coletadas por diferentes estações meteorológicas. Projeto para cliente interno (professor).
+</div>
+
+<br/>
+<p>
+  <a href="https://github.com/PorygonAPI/Porygon2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### Tecnologias Utilizadas
+
+* **Java SE (JDK 22):** Base para o desenvolvimento da aplicação desktop.
+* **JDBC:** Conexão e persistência de dados em banco de dados relacional.
+* **MySQL:** Armazenamento e manipulação dos dados climáticos.
+* **Swing:** Construção da interface gráfica da aplicação.
+* **Git e GitHub:** Controle de versão e colaboração entre os integrantes da equipe.
   
-Durante o segundo semestre de 2024 (2024-1), desenvolvemos a aplicação EMA (Estação Meteorológica Automatizada), um sistema desktop voltado à consolidação e análise de dados climáticos de cidades do estado de São Paulo. O projeto foi implementado em Java, integrado a um banco de dados relacional e capaz de gerar relatórios estatísticos — incluindo médias, periodicidades e boxplots — para apoiar pesquisas acadêmicas.
-
-[![GitHub do Projeto](https://img.shields.io/badge/GitHub-EMA-181717?style=for-the-badge&logo=github&logoColor=white)](link_do_repositorio)
-
----
-
-#### Tecnologias Utilizadas
-- **Java SE (JDK 22)** – base da aplicação desktop  
-- **JDBC** – conexão e persistência com banco de dados relacional  
-- **MySQL** – armazenamento e manipulação dos dados climáticos  
-- **Swing** – construção da interface gráfica  
-- **Git e GitHub** – controle de versão e colaboração  
-
 #### Contribuições Pessoais
 
-- Ajuda no frontend da aplicação
-- Divisão de tarefas
-- E atuação no backend
-- Participação em reuniões de sprint e revisões de backlog.   
-- Documentação e apresentação 
+<div align="justify">
+Scrum Master e desenvolvedora do time, assumi pela primeira vez a responsabilidade de conduzir o processo ágil do projeto, buscando aprender mais sobre organização e trabalho em equipe. Atuei na condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para que os objetivos das sprints fossem alcançados. Além disso, contribuí no desenvolvimento da aplicação, participando das implementações e auxiliando na evolução das funcionalidades do projeto. Foi uma experiência importante para desenvolver tanto habilidades técnicas quanto de coordenação e colaboração.
+</div>
 
-#### Hard Skills
-- **Java SE** – nível intermediário  
-- **JDBC** – nível intermediário  
-- **MySQL** – nível intermediário  
-- **Swing** – nível intermediário  
-- **Git/GitHub** – nível intermediário  
+### Hard Skills
+
+* **Java:** Meu primeiro contato com java, aprenDI conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
+* **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
+
 
 #### Soft Skills
-- **Trabalho em equipe**  
-- **Comunicação**  
-- **Proatividade**  
-- **Atenção aos detalhes**  
-- **Aprendizado contínuo**  
-- **Organização**
+- **Trabalho em equipe:** Consegui me integrar melhor com a equipe e realizar entregas mais consistentes.
+- **Comunicação:** Evolui a comunição, princialmente em relação a pedri ajuda.
 
-  
 </details>
 
 <details>
