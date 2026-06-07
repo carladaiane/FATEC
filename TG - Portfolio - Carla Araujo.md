@@ -84,7 +84,7 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 
 <br/>
 <p>
-  <a href="https://github.com/PorygonAPI/Porygon2" target="_blank">
+  <a href="https://github.com/PorygonAPI/Porygon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -116,50 +116,49 @@ Scrum Master e desenvolvedora do time, assumi pela primeira vez a responsabilida
 
 <details>
   <summary><strong>3° Semestre - 2024.2</strong></summary>
+  
+<div align="justify">
 
-No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos obtidos de portais e APIs públicas. O objetivo foi oferecer aos pesquisadores uma ferramenta capaz de filtrar, categorizar e disponibilizar automaticamente as informações com facíl acesso.
+### Missão
+Desenvolver uma aplicação web para capturar, organizar e disponibilizar grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas, permitindo a pesquisa, filtragem e categorização automatizada das informações. Projeto executado em parceria com a GSW (Global Solutions & Web).
+</div>
 
-[![GitHub do Projeto](https://img.shields.io/badge/GitHub-Porygon2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon2)
+<br/>
+<p>
+  <a href="https://github.com/PorygonAPI/Porygon2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ### Tecnologias Utilizadas
-- **Java 22** – base da aplicação e JVM moderna  
-- **Spring Boot 3.3.3** (Web, Data JPA, Thymeleaf, DevTools) – rapidez no desenvolvimento e configuração  
-- **MySQL** – banco relacional para armazenar portais, notícias, APIs e tags  
-- **Lombok** – redução de verbosidade em entidades e DTOs  
-- **Jsoup** – scraping de conteúdo HTML de portais  
-- **Jackson** – serialização e desserialização de JSON e XML  
-- **Maven** – gerenciamento de dependências e build
 
+* **Java 22:** Linguagem base da aplicação, utilizando recursos modernos da JVM.
+* **Spring Boot 3.3.3 (Web, Data JPA, Thymeleaf e DevTools):** Desenvolvimento do backend e integração dos componentes da aplicação.
+* **MySQL:** Banco de dados relacional.
+* **Lombok:** Redução de código repetitivo (boilerplate).
+* **Jsoup:** Coleta e processamento de dados por meio de web scraping.
+* **Jackson:** Conversão e manipulação de dados em formatos JSON e XML.
+* **Maven:** Gerenciamento de dependências e automação do processo de build.
+* **Thymeleaf:** Template engine para construção das páginas da aplicação.
+* **Bootstrap:** Estilização e responsividade da interface web.
+
+<div align="justify">
+  
 ### Contribuições Pessoais
 
-- Atuei como **Scrum Master** do projeto.
-- Auxiliei:
-  - nas entregas dentro do prazo;
-  - na distribuição de tarefas;
-  - na superação de desafios técnicos;
-  - na promoção da interação entre os membros do grupo.
-- Fui responsável pela **gestão das reuniões** com o time.
-- Busquei constantemente ferramentas para melhorar a **fluidez do projeto**.
-- Introduzi o uso do **Jira**, o que possibilitou:
-  - melhor gerenciamento das histórias e tarefas por sprint;
-  - rastreamento dos commits das funcionalidades;
-  - aumento na organização da equipe.
-- Contribuí pontualmente com **ajustes no front-end**.
-- Minha principal atuação foi na **condução e facilitação do processo Scrum** durante todo o projeto.
+Scrum Master do time, fui responsável pela condução das cerimônias ágeis, organização das sprints e alinhamento das atividades da equipe. Atuei no acompanhamento das entregas, distribuição de tarefas e apoio na resolução de desafios encontrados durante o projeto. Também implementei o uso do Jira para melhorar o gerenciamento das histórias, rastreabilidade das atividades e organização do time, além de contribuir pontualmente com ajustes no front-end da aplicação.
 
+</div>
 
 ### Hard Skill 
-- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação - **nível: básico** 
-- **REST API Design** – DTOs, versionamento, tratamento de exceções - **nível: básico**
-- **Web Scraping (Jsoup)** – extração de conteúdo e agendamento - **nível: básico**  
-- **Thymeleaf** – templates responsivos e integração com Spring - **nível: intermediário**
-- **Git** – estratégias de branching, pull requests e revisões - **nível: intermediário**
-
+- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação
+- **REST API Design** – DTOs, versionamento, tratamento de exceções
+  
 ### Soft Skills
-- **Comunicação** – Conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
-- **Colaboração** – Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
-- **Proatividade** – Identifiquei e implementei otimizações de performance antes dos deadlines.  
-- **Organização** – Gerenciei tarefas no Jira, cumprindo estimativas de story points e mantendo o ritmo de entrega.
+- **Comunicação:**Conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
+- **Colaboração:** Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
+- **Proatividade:** Identifiquei e implementei otimizações de performance antes dos deadlines.  
+- **Organização:** Consegui gerenciar tarefas no Jira, atendendo estimativas das histórias e mantendo o ritmo de entrega.
 
 </details>
 
