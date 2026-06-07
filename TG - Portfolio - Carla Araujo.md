@@ -139,36 +139,31 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 <details>
   <summary><strong>4° Semestre - 2025.1</strong></summary>
 
-Durante o segundo semestre de 2024 (período 2024-1), desenvolvemos a aplicação EMA (Estação Meteorológica Automatizada), um sistema desktop destinado à consolidação e à análise de dados climáticos de diversas cidades do estado de São Paulo. O projeto foi implementado em Java, integrando-se a um banco de dados relacional e oferecendo geração de relatórios estatísticos — incluindo médias, periodicidades e boxplots — para apoio a pesquisas acadêmicas.
+### Missão
+<div align="justify">  
+Desenvolver uma plataforma web voltada à manipulação e visualização de dados agrícolas, permitindo a consolidação de informações sobre áreas, safras e produtividade por meio de dashboards, relatórios gerenciais e mapas interativos. A solução foi composta por módulos backend e frontend, disponibilizando acesso aos dados tanto por interface web quanto por APIs RESTful. Projeto desenvolvido em parceria com a Visiona.
+<div align="justify">
+<br/>
+<p>
+  <a href="https://github.com/PorygonAPI/Porygon3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![GitHub do Projeto](https://img.shields.io/badge/GitHub-Visiona_Agro-181717?style=for-the-badge&logo=github&logoColor=white)](link_do_repositorio)
+### Tecnologias Utilizadas
 
-#### Tecnologias Utilizadas
-- **Java 22** – base da aplicação e recursos modernos da JVM  
-- **Spring Boot 3.3.3** (Web, Data JPA, Security, DevTools) – desenvolvimento rápido e modular  
-- **MySQL** – banco relacional para armazenar safras, áreas, usuários e relatórios  
-- **Docker** – criação de containers para padronização do ambiente  
-- **Vue.js** – construção da interface web dinâmica e reativa  
-- **Spring Security (JWT)** – autenticação e controle de perfis  
-- **Hibernate/JPA** – persistência e mapeamento objeto-relacional  
-- **GitHub Projects & Issues** – organização e acompanhamento das sprints  
+* **Java 22 e Spring Boot 3.3.3 (Web, Data JPA, Security e DevTools):** Backend.
+* **MySQL:** Banco de dados relacional para persistência dos dados.
+* **Docker:** Containerização do ambiente para padronização e execução da aplicação.
+* **Vue.js:** Interface web.
+* **Spring Security:** Autenticação e autorização com JWT.
+* **Hibernate e JPA:** Mapeamento e gerenciamento da persistência dos dados.
+* **GitHub Projects e Issues:** Organização, acompanhamento das atividades e controle das sprints do projeto.
+
 
 #### Contribuições Pessoais
 
-- Atuei como **Scrum Master** do projeto.
-- Auxiliei:
-  - nas entregas dentro do prazo;
-  - na distribuição de tarefas;
-  - na superação de desafios técnicos;
-  - na promoção da interação entre os membros do grupo.
-- Fui responsável pela **gestão das reuniões** com o time.
-- Busquei constantemente ferramentas para melhorar a **fluidez do projeto**.
-- Introduzi o uso do **Jira**, o que possibilitou:
-  - melhor gerenciamento das histórias e tarefas por sprint;
-  - rastreamento dos commits das funcionalidades;
-  - aumento na organização da equipe.
-- Contribuí pontualmente com **ajustes no front-end**.
-- Minha principal atuação foi na **condução e facilitação do processo Scrum** durante todo o projeto.
+Atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicação. Contribuí com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints no Spring Boot, além de colaborar na evolução geral das funcionalidades do sistema.
 
 #### Hard Skills
 - **Java 22** 
@@ -183,10 +178,8 @@ Durante o segundo semestre de 2024 (período 2024-1), desenvolvemos a aplicaçã
 #### Soft Skills
 - **Organização** – gestão de backlog, documentação e estruturação de tarefas.  
 - **Comunicação** – alinhamento entre backend, frontend e equipe de análise.  
-- **Trabalho em equipe** – colaboração constante com desenvolvedores e analistas.  
-- **Resolução de conflitos** – mediação de decisões técnicas entre membros.  
-- **Atenção aos detalhes** – revisão de código, modelagem e validação de dados.  
-
+- **Trabalho em equipe** – colaboração constante com desenvolvedores e analistas.
+  
 </details>
 
 
