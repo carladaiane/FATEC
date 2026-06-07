@@ -2,11 +2,7 @@
 # Carla Daiane Freitas dos Santos Araujo
 
 ## Descrição
-
-## Descrição
-
 <div align="justify">
-
 Formada em Logística em 2022, iniciei minha trajetória na área de Tecnologia da Informação em 2021, quando tive a oportunidade de realizar um curso de Desenvolvimento em Python. A experiência despertou meu interesse pela área e motivou minha transição profissional para a tecnologia.
 
 Atualmente, atuo há cerca de três anos como Analista de Testes de Software, trabalhando com validação de sistemas, elaboração de cenários de teste, análise de requisitos e garantia da qualidade de software. Essa vivência prática tem contribuído significativamente para meu desenvolvimento técnico e profissional.
