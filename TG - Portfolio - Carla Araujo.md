@@ -108,10 +108,9 @@ Scrum Master e desenvolvedora do time, assumi pela primeira vez a responsabilida
 * **Java:** Meu primeiro contato com java, aprenDI conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
 
-
 #### Soft Skills
 - **Trabalho em equipe:** Consegui me integrar melhor com a equipe e realizar entregas mais consistentes.
-- **Comunicação:** Evolui a comunição, princialmente em relação a pedri ajuda.
+- **Comunicação:** Evolui a comunição, principalmente em relação a pedir ajuda.
 
 </details>
 
