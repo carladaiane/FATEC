@@ -205,14 +205,48 @@ Em breve teremos a descrição.
 
 <details>
   <summary><strong>6° Semestre - 2026.1</strong></summary>
+  
+### Missão
+<div align="justify">
+Desenvolver de uma plataforma analítica web voltada ao tratamento e visualização de dados públicos da ANEEL, com o objetivo de transformar informações regulatórias em indicadores estruturados que auxiliem na compreensão e análise do setor elétrico brasileiro. Projeto desenvolvido em parceria com a TECSYS.
+</div>
 
-### Exemplo Disciplinas
-- Laboratório de Desenvolvimento em Banco de Dados I
-- Fundamentos da Administração Geral
-- Comunicação e Expressão
-- Algoritmos e Lógica de Programação
+<br/>
+<p>
+  <a href="https://github.com/AthosFatecSjc/Athos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-### Descrição
-Em breve teremos a descrição.
+### Contribuições Pessoais
+
+<div align="justify">
+Atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+</div>
+
+### Hard Skills
+
+* **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
+
+* **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
+
+* **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
+
+* **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
+
+* **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
+
+  
+### Soft Skills
+
+* **Scrum Master:** Organização das cerimônias ágeis, acompanhamento das sprints e apoio na comunicação entre os integrantes da equipe.
+
+* **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
+
+* **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
+
+* **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
+
+* **Organização:** Auxílio no planejamento das atividades e acompanhamento do andamento das entregas.
 
 </details>
