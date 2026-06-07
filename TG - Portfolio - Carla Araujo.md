@@ -5,7 +5,7 @@
 
 <div align="justify">
 
-  Formada em Logística em 2022, iniciei minha trajetória na área de Tecnologia da Informação em 2021, quando tive a oportunidade de realizar um curso de Desenvolvimento em Python. A experiência despertou meu interesse pela área e motivou minha transição profissional para a tecnologia. 
+  Formada em Logística, iniciei minha trajetória na área de Tecnologia da Informação em 2021, quando tive a oportunidade de realizar um curso de Desenvolvimento em Python. A experiência despertou meu interesse pela área e motivou minha transição profissional para a tecnologia. 
   
   Atualmente, atuo há cerca de três anos como Analista de Testes de Software, trabalhando com validação de sistemas, elaboração de cenários de teste, análise de requisitos e garantia da qualidade de software. Essa vivência prática tem contribuído significativamente para meu desenvolvimento técnico e profissional.
 
@@ -33,14 +33,42 @@
 <details>
   <summary><strong>1° Semestre - 2023.2</strong></summary>
 
-### Exemplo Disciplinas
-- Laboratório de Desenvolvimento em Banco de Dados I
-- Fundamentos da Administração Geral
-- Comunicação e Expressão
-- Algoritmos e Lógica de Programação
+### Missão
+<div align="justify">
+Desenvolver um sistema interno de gestão e acompanhamento de scores para a instituição de ensino PBLTeX, especializada em cursos práticos de ensino aplicando PBL, visando otimizar a avaliação do Fator de Ensino Evolutivo (FEE) e fortalecer sua posição no mercado de edtechs.
+</div>
 
-### Descrição
-Em breve teremos a descrição.
+<br/>
+<p>
+  <a href="https://github.com/timemorize/API-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### Tecnologias Utilizadas
+
+* **Python**
+* **Flask**
+* **Bootstrap**
+* **JQuery**
+* **Axios**
+  
+### Contribuições Pessoais
+
+<div align="justify">
+Developer no time, tive minha primeira experiência em um projeto de desenvolvimento, atuando como desenvolvedora. Foi um grande desafio, especialmente por ser meu primeiro contato com um projeto em grupo com entrega constante, mas também uma experiência importante de aprendizado e evolução ao longo do desenvolvimento.
+</div>
+
+### Hard Skills
+
+* **Python:** Primeiro contato com a construção de fluxos dentro de uma aplicação, desenvolvendo autonomia na implementação de lógicas e processos básicos.
+* **Estruturas de dados:** Aprendizado prático no manuseio de JSON e diferentes tipos de dados, incluindo a necessidade de realizar conversões (casting) durante o desenvolvimento.
+* **JavaScript, HTML e CSS:** Desenvolvimento de interfaces mais complexas, adquirindo base suficiente para implementação e manutenção de telas web.
+
+### Soft Skills
+
+* **Comunicação:** As primeiras sprints foram desafiadoras devido à dificuldade em integrar todas as partes do desenvolvimento. Porém, na última sprint, consegui alinhar melhor com o time e com o cliente as entregas necessárias, resultando em uma entrega bem-sucedida.
+* **Organização e senso de urgência:** Evolução na organização das atividades e priorização de demandas ao longo das sprints, conseguindo estruturar melhor o fluxo de trabalho e responder de forma mais eficiente às necessidades do projeto.
 
 </details>
 
