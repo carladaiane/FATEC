@@ -94,7 +94,7 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 
 [![GitHub do Projeto](https://img.shields.io/badge/GitHub-Porygon2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon2)
 
-#### Tecnologias Utilizadas
+### Tecnologias Utilizadas
 - **Java 22** – base da aplicação e JVM moderna  
 - **Spring Boot 3.3.3** (Web, Data JPA, Thymeleaf, DevTools) – rapidez no desenvolvimento e configuração  
 - **MySQL** – banco relacional para armazenar portais, notícias, APIs e tags  
@@ -103,7 +103,7 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 - **Jackson** – serialização e desserialização de JSON e XML  
 - **Maven** – gerenciamento de dependências e build
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 
 - Atuei como **Scrum Master** do projeto.
 - Auxiliei:
@@ -121,14 +121,14 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 - Minha principal atuação foi na **condução e facilitação do processo Scrum** durante todo o projeto.
 
 
-#### Hard Skill 
+### Hard Skill 
 - **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação - **nível: básico** 
 - **REST API Design** – DTOs, versionamento, tratamento de exceções - **nível: básico**
 - **Web Scraping (Jsoup)** – extração de conteúdo e agendamento - **nível: básico**  
 - **Thymeleaf** – templates responsivos e integração com Spring - **nível: intermediário**
 - **Git** – estratégias de branching, pull requests e revisões - **nível: intermediário**
 
-#### Soft Skills
+### Soft Skills
 - **Comunicação** – Conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
 - **Colaboração** – Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
 - **Proatividade** – Identifiquei e implementei otimizações de performance antes dos deadlines.  
@@ -161,11 +161,11 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
 * **GitHub Projects e Issues:** Organização, acompanhamento das atividades e controle das sprints do projeto.
 
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 
 Atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicação. Contribuí com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints no Spring Boot, além de colaborar na evolução geral das funcionalidades do sistema.
 
-#### Hard Skills
+### Hard Skills
 - **Java 22** 
 - **Spring Boot 3.3.3** 
 - **MySQL**
@@ -175,7 +175,7 @@ Atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicaç
 - **Hibernate/JPA**
 - **GitHub Projects & Issues**
 
-#### Soft Skills
+### Soft Skills
 - **Organização** – gestão de backlog, documentação e estruturação de tarefas.  
 - **Comunicação** – alinhamento entre backend, frontend e equipe de análise.  
 - **Trabalho em equipe** – colaboração constante com desenvolvedores e analistas.
