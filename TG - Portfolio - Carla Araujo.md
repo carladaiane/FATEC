@@ -235,7 +235,7 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
 ### Contribuições Pessoais
 
 <div align="justify">
-Scrum Master do time, atuei como Scrum Master da equipe, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
+Scrum Master do time, responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
 </div>
 
 ### Hard Skills
