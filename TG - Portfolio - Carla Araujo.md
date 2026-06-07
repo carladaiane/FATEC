@@ -205,36 +205,36 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
   </a>
 </p>
 
+### Tecnologias Utilizadas
+
+* **Python 3.11 / Django:** Backend.
+* **JavaScript / HTMX:** Frontend.
+* **PostgreSQL:** Banco de dados (OLTP + OLAP/Data Warehouse).
+* **Docker:** Containerização e deploy.
+* **Azure (VM):** Hospedagem em nuvem.
+
 ### Contribuições Pessoais
 
 <div align="justify">
-Atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+Atuei como Scrum Master da equipe, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
 </div>
 
 ### Hard Skills
 
-* **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
+* **Python / Django:** Apoio no desenvolvimento e validação de funcionalidades relacionadas aos relatórios da aplicação.
+* **Integração com API do Jira:** Acompanhamento das integrações utilizadas para coleta e processamento de informações do sistema.
+* **PostgreSQL (OLTP/OLAP):** Participação nas discussões sobre estruturação e organização dos dados utilizados pela plataforma.
+* **Docker:** Utilização de ambientes containerizados durante o desenvolvimento do projeto.
+* **Exportação PDF:** Colaboração na validação e acompanhamento das funcionalidades de geração de relatórios em PDF.
 
-* **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
-
-* **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
-
-* **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
-
-* **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
 
   
 ### Soft Skills
 
-* **Scrum Master:** Organização das cerimônias ágeis, acompanhamento das sprints e apoio na comunicação entre os integrantes da equipe.
+* **Trabalho em Equipe:** Atuação próxima ao time para alinhamento das demandas e acompanhamento das entregas.
+* **Comunicação:** Mediação das discussões do projeto e suporte à troca de informações entre equipe e stakeholders.
+* **Organização:** Planejamento e acompanhamento das atividades para garantir o cumprimento dos objetivos definidos para cada sprint. Condução das cerimônias ágeis, acompanhamento das sprints, gestão de impedimentos e apoio à organização das atividades da equipe.
 
-* **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
-
-* **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
-
-* **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
-
-* **Organização:** Auxílio no planejamento das atividades e acompanhamento do andamento das entregas.
 
 </details>
 
@@ -283,14 +283,12 @@ Atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organiza
   
 ### Soft Skills
 
-* **Scrum Master:** Organização das cerimônias ágeis, acompanhamento das sprints e apoio na comunicação entre os integrantes da equipe.
-
 * **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
 
 * **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
 
 * **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
 
-* **Organização:** Auxílio no planejamento das atividades e acompanhamento do andamento das entregas.
+* **Organização:** Auxílio no planejamento das atividades, distribuição de tarefas e acompanhamento do andamento das entregas.
 
 </details>
