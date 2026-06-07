@@ -191,7 +191,7 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
 
 ### Contribuições Pessoais
 
-Atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicação. Contribuí com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints no Spring Boot, além de colaborar na evolução geral das funcionalidades do sistema.
+Developer no time, atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicação. Contribuí com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints no Spring Boot, além de colaborar na evolução geral das funcionalidades do sistema.
 
 ### Hard Skills
 - **Java 22** 
@@ -237,7 +237,7 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
 ### Contribuições Pessoais
 
 <div align="justify">
-Atuei como Scrum Master da equipe, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
+Scrum Master do time, atuei como Scrum Master da equipe, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
 </div>
 
 ### Hard Skills
@@ -286,30 +286,21 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
 ### Contribuições Pessoais
 
 <div align="justify">
-Atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+Scrum Master do time, atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
 </div>
 
 ### Hard Skills
-
 * **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
-
 * **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
-
 * **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
-
 * **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
-
 * **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
 
   
 ### Soft Skills
-
 * **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
-
 * **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
-
 * **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
-
 * **Organização:** Auxílio no planejamento das atividades, distribuição de tarefas e acompanhamento do andamento das entregas.
 
 </details>
