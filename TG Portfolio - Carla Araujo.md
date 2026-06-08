@@ -112,12 +112,12 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 
 ### Hard Skills
 
-* **Java:** Meu primeiro contato com java, aprenDI conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
+* **Java:** Meu primeiro contato com java, aprendi conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
 
 #### Soft Skills
-- **Trabalho em equipe:** Consegui me integrar melhor com a equipe e realizar entregas mais consistentes.
-- **Comunicação:** Evolui a comunição, principalmente em relação a pedir ajuda.
+- **Responsabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
+- **Comunicação:** Evolução na interação com a equipe, no alinhamento de atividades e na busca por ajuda para superar desafios técnicos.
 
 </details>
 
