@@ -118,6 +118,7 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 #### Soft Skills
 - **Responsabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
 - **Comunicação:** Evolução na interação com a equipe, no alinhamento de atividades e na busca por ajuda para superar desafios técnicos.
+- **Resolução de Conflitos:** Consegui lidar de maneira mais assertiva com os conflitos durante durante o projeto
 
 </details>
 
@@ -153,7 +154,7 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
   
 ### Contribuições Pessoais
 
-Scrum Master do time, fui responsável pela condução das cerimônias ágeis, organização das sprints e alinhamento das atividades da equipe. Atuei no acompanhamento das entregas, distribuição de tarefas e apoio na resolução de desafios encontrados durante o projeto. Também implementei o uso do Jira para melhorar o gerenciamento das histórias, rastreabilidade das atividades e organização do time, além de contribuir pontualmente com ajustes no front-end da aplicação.
+Atuei como Scrum Master do time, fui responsável pela condução das cerimônias ágeis, organização das sprints e alinhamento das atividades da equipe. Atuei no acompanhamento das entregas, distribuição de tarefas e apoio na resolução de desafios encontrados durante o projeto. Também implementei o uso do Jira para melhorar o gerenciamento das histórias, rastreabilidade das atividades e organização do time, além de contribuir pontualmente com ajustes no front-end da aplicação.
 
 </div>
 
