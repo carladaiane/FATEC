@@ -71,9 +71,8 @@ Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuiç
 
 ### Soft Skills
 
-* **Comunicação:** As primeiras sprints foram desafiadoras devido à dificuldade em integrar todas as partes do desenvolvimento. Porém, na última sprint, consegui alinhar melhor com o time e com o cliente as entregas necessárias, resultando em uma entrega bem-sucedida.
-* **Organização e senso de urgência:** Evolução na organização das atividades e priorização de demandas ao longo das sprints, conseguindo estruturar melhor o fluxo de trabalho e responder de forma mais eficiente às necessidades do projeto.
-
+* **Adaptabilidade:** esenvolvi a capacidade de me adaptar a mudanças no projeto, especialmente após a redistribuição de atividades na equipe e os ajustes necessários ao longo das sprints.
+* **Autoconfiança:** Ganhei mais segurança para executar tarefas e organizar minhas atividades. Além disso, percebi a importância de me manter mais disponível para apoiar as demandas da equipe e contribuir ativamente para o andamento do projeto.
 </details>
 
 
