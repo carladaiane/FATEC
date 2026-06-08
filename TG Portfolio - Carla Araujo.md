@@ -104,7 +104,7 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 
 <div align="justify">
 
-Atuei como Scrum Master e desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
+Atuei como desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
 Durante o projeto, propus a utilização da ferramenta Jira para apoiar a gestão das atividades. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
 Os principais desafios enfrentados foram técnicos, especialmente relacionados à limpeza e tratamento dos dados, exigindo aprendizado contínuo e trabalho conjunto para superar as dificuldades encontradas.
 
@@ -154,7 +154,9 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
   
 ### Contribuições Pessoais
 
-Atuei como Scrum Master do time, fui responsável pela condução das cerimônias ágeis, organização das sprints e alinhamento das atividades da equipe. Atuei no acompanhamento das entregas, distribuição de tarefas e apoio na resolução de desafios encontrados durante o projeto. Também implementei o uso do Jira para melhorar o gerenciamento das histórias, rastreabilidade das atividades e organização do time, além de contribuir pontualmente com ajustes no front-end da aplicação.
+Atuei como Scrum Master e desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
+Durante o projeto, propus a utilização da ferramenta Jira para apoiar a gestão das atividades. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
+Os principais desafios enfrentados foram técnicos, especialmente relacionados à limpeza e tratamento dos dados, exigindo aprendizado contínuo e trabalho conjunto para superar as dificuldades encontradas.
 
 </div>
 
