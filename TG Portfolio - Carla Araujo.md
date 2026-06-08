@@ -103,7 +103,11 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 #### Contribuições Pessoais
 
 <div align="justify">
-Scrum Master e desenvolvedora do time, assumi pela primeira vez a responsabilidade de conduzir o processo ágil do projeto, buscando aprender mais sobre organização e trabalho em equipe. Atuei na condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para que os objetivos das sprints fossem alcançados. Além disso, contribuí no desenvolvimento da aplicação, participando das implementações e auxiliando na evolução das funcionalidades do projeto. Foi uma experiência importante para desenvolver tanto habilidades técnicas quanto de coordenação e colaboração.
+
+Atuei como Scrum Master e desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
+Durante o projeto, propus a utilização da ferramenta Jira para apoiar a gestão das atividades. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
+Os principais desafios enfrentados foram técnicos, especialmente relacionados à limpeza e tratamento dos dados, exigindo aprendizado contínuo e trabalho conjunto para superar as dificuldades encontradas.
+
 </div>
 
 ### Hard Skills
