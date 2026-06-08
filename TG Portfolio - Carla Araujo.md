@@ -56,7 +56,11 @@ Desenvolver um sistema interno de gestão e acompanhamento de scores para a inst
 ### Contribuições Pessoais
 
 <div align="justify">
-Developer no time, tive minha primeira experiência em um projeto de desenvolvimento, atuando como desenvolvedora. Foi um grande desafio, especialmente por ser meu primeiro contato com um projeto em grupo com entrega constante, mas também uma experiência importante de aprendizado e evolução ao longo do desenvolvimento.
+  
+Atuei como desenvolvedora em minha primeira experiência em um projeto de desenvolvimento de software. O projeto representou um desafio importante, tanto pelo trabalho em equipe quanto pela dinâmica de entregas contínuas por meio de sprints.
+Por ser meu primeiro contato prático com programação, enfrentei algumas dificuldades técnicas e de comunicação, especialmente para solicitar ajuda quando necessário. No entanto, consegui evoluir ao longo do projeto, ampliando meus conhecimentos técnicos e minha capacidade de colaboração.
+Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuição das atividades. Apesar disso, o time manteve o andamento do projeto e realizou boas entregas.
+
 </div>
 
 ### Hard Skills
