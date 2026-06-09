@@ -200,7 +200,9 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
 
 ### Contribuições Pessoais
 
-Developer no time, atuei no desenvolvimento de funcionalidades no backend e no frontend da aplicação. Contribuí com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints no Spring Boot, além de colaborar na evolução geral das funcionalidades do sistema.
+Atuei como desenvolvedora da equipe, contribuindo com a implementação de melhorias na interface, ajustes em componentes Vue e apoio na construção de endpoints utilizando Spring Boot, além de colaborar na evolução das funcionalidades do sistema.
+Durante o projeto, enfrentamos um desafio inesperado quando a Product Owner deixou a equipe próximo ao final da segunda sprint. Com isso, foi necessário redistribuir responsabilidades e reorganizar o planejamento das atividades. Além disso, iniciamos a terceira sprint sem um backlog previamente validado, o que exigiu maior alinhamento entre os integrantes para definição das prioridades.
+Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter o andamento do projeto e realizar uma entrega consistente ao final do ciclo de desenvolvimento.
 
 ### Hard Skills
 - **Java 22** 
@@ -213,9 +215,11 @@ Developer no time, atuei no desenvolvimento de funcionalidades no backend e no f
 - **GitHub Projects & Issues**
 
 ### Soft Skills
-- **Organização** – gestão de backlog, documentação e estruturação de tarefas.  
-- **Comunicação** – alinhamento entre backend, frontend e equipe de análise.  
-- **Trabalho em equipe** – colaboração constante com desenvolvedores e analistas.
+### Soft Skills
+
+- **Adaptabilidade** – Ajuste às mudanças de planejamento e redistribuição de responsabilidades após a saída da Product Owner.
+- **Colaboração** – Trabalho conjunto com a equipe para definição de prioridades e continuidade do desenvolvimento do projeto.
+- **Gestão do Tempo** – Planejamento e priorização das atividades para manter as entregas dentro dos prazos, mesmo diante da reorganização da equipe e das mudanças ocorridas durante o projeto.
   
 </details>
 
