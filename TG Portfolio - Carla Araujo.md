@@ -103,10 +103,8 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 #### Contribuições Pessoais
 
 <div align="justify">
-
-Atuei como desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
-Durante o projeto, propus a utilização da ferramenta Jira para apoiar a gestão das atividades. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
-Os principais desafios enfrentados foram técnicos, especialmente relacionados à limpeza e tratamento dos dados, exigindo aprendizado contínuo e trabalho conjunto para superar as dificuldades encontradas.
+Atuei como desenvolvedora da equipe e, desta vez, enfrentei desafios diferentes dos projetos anteriores. Com a mudança de equipe, precisei me adaptar a novos integrantes, novas formas de trabalho e novos processos. Além disso, o projeto era focado em tratamento de dados, o que exigiu maior dedicação para compreender as regras de negócio e as soluções adotadas pelo grupo.
+Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e precisei me adaptar ao desenvolvimento de uma aplicação desktop, tecnologia com a qual eu tinha pouca experiência. Apesar dos desafios, consegui ampliar meus conhecimentos técnicos e me integrar à dinâmica da equipe ao longo do projeto.
 
 </div>
 
@@ -116,9 +114,9 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
 
 #### Soft Skills
-- **Responsabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
-- **Comunicação:** Evolução na interação com a equipe, no alinhamento de atividades e na busca por ajuda para superar desafios técnicos.
-- **Resolução de Conflitos:** Consegui lidar de maneira mais assertiva com os conflitos durante durante o projeto
+- **Adaptabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
+- **Aprendizado Contínuo:** Busca constante por novos conhecimentos para compreender tecnologias, regras de negócio e conceitos necessários para o desenvolvimento da solução.
+- **Colaboração:** Trabalho conjunto com os demais integrantes para superar dificuldades técnicas e contribuir para as entregas do projeto.
 
 </details>
 
@@ -165,7 +163,10 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 - **REST API Design** – DTOs, versionamento, tratamento de exceções
   
 ### Soft Skills
-- **Comunicação:**Conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
+
+- **Responsabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
+- **Comunicação:** Evolução na interação com a equipe, no alinhamento de atividades e na busca por ajuda para superar desafios técnicos.
+- **Resolução de Conflitos:** Consegui lidar de maneira mais assertiva com os conflitos durante durante o projeto
 - **Colaboração:** Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
 - **Proatividade:** Identifiquei e implementei otimizações de performance antes dos deadlines.  
 - **Organização:** Consegui gerenciar tarefas no Jira, atendendo estimativas das histórias e mantendo o ritmo de entrega.
