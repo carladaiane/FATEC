@@ -313,9 +313,11 @@ Atuei inicialmente como desenvolvedora do time, contribuindo para a organizaçã
 
 No início da segunda sprint, o Product Owner deixou a equipe. Com isso, optamos por dividir o grupo, que passou a contar com apenas quatro integrantes. Após a reorganização dos papéis, a Scrum Master assumiu a função de Product Owner e eu passei a atuar como Scrum Master.
 
-Mesmo com a equipe reduzida e com um volume significativo de demandas pendentes e novas funcionalidades previstas, incluindo o desenvolvimento de recursos de Inteligência Artificial, conseguimos manter um fluxo de entrega mais consistente. A redução do time contribuiu para melhor comunicação, maior alinhamento entre os membros e mais agilidade na execução das atividades.
+Durante a fase em que a equipe ainda era maior, o projeto apresentou problemas estruturais significativos de execução e planejamento do trabalho, marcados por falta de comprometimento de parte do time, atrasos recorrentes nas entregas, baixa clareza e inconsistência na divisão e entendimento das tarefas, além de falhas frequentes na execução do planejamento da sprint por parte do time, o que comprometia diretamente a previsibilidade, o cumprimento das sprints e a estabilidade do fluxo de entrega.
 
-Essa experiência mostrou, na prática, que equipes menores podem favorecer a organização e o acompanhamento das tarefas, desde que haja alinhamento e comprometimento entre os integrantes, resultando em entregas mais contínuas e consistentes.
+Após a redução do time, mesmo com um volume significativo de demandas pendentes e novas funcionalidades previstas — incluindo o desenvolvimento de recursos de Inteligência Artificial — conseguimos melhorar a consistência das entregas. Ainda assim, alguns atrasos pontuais continuaram ocorrendo, porém a equipe demonstrou um nível maior de engajamento, disposição e colaboração, o que reduziu significativamente os problemas de alinhamento e melhorou a dinâmica de execução das atividades.
+
+Essa experiência mostrou, na prática, que a eficiência do time não está apenas no tamanho, mas principalmente no nível de alinhamento, responsabilidade compartilhada e clareza na execução das entregas, sendo possível obter maior consistência com equipes menores e mais engajadas.
 
 </div>
 
@@ -328,11 +330,15 @@ Essa experiência mostrou, na prática, que equipes menores podem favorecer a or
   
 ### Soft Skills
 
-- **Visão de Produto:** Compreensão do impacto das funcionalidades no sistema como um todo, alinhando desenvolvimento técnico às necessidades do projeto, incluindo integrações como coleta de dados, LGPD e IA.
-- **Trabalho em Equipe:** Colaboração ativa na organização das sprints e no alinhamento das atividades, contribuindo para a entrega conjunta mesmo diante de mudanças de papéis e redução do time.
-- **Comunicação:** Melhoria na troca de informações entre os membros, especialmente após a reorganização da equipe, favorecendo alinhamento e redução de retrabalho.
-- **Organização:** Apoio na estruturação das sprints e na distribuição de tarefas, além de adaptação à gestão de demandas acumuladas e novas funcionalidades.
-- **Adaptabilidade:** Atuação em diferentes papéis (desenvolvedora e Scrum Master) e adaptação a mudanças estruturais no time, mantendo o fluxo de entregas.
-- **Responsabilidade:** Comprometimento com as entregas e com a condução das atividades do time, mesmo em cenários de alta demanda e reorganização da equipe.
+### Soft Skills
+
+### Soft Skills
+
+- **Visão de Produto:** Com o grupo menor, me envolvi de forma mais ativa com o produto e com as entregas, passando a entender melhor o impacto de cada funcionalidade no sistema. Isso me fez participar mais das decisões e opinar com mais segurança sobre o direcionamento das entregas.
+- **Trabalho em Equipe:** Com a redução do time, percebi na prática a importância de estar mais próxima dos outros membros. Passei a entender melhor como o meu trabalho impactava o deles e como o trabalho deles impactava o meu, o que fortaleceu a colaboração e o senso de equipe.
+- **Comunicação:** Com um time menor, senti que a comunicação ficou mais direta e centralizada. Isso facilitou os alinhamentos e me ajudou a me comunicar de forma mais clara e objetiva, contribuindo mais ativamente para as decisões do grupo.
+- **Organização:** Precisei me envolver mais na organização das sprints e na distribuição das tarefas. Com as demandas acumuladas e novas funcionalidades, desenvolvi mais disciplina para estruturar e acompanhar o andamento das atividades.
+- **Adaptabilidade:** Atuei em diferentes papéis (desenvolvedora e Scrum Master), o que me forçou a sair da zona de conforto. Nesse processo, precisei me adaptar rapidamente e desenvolvi mais minhas habilidades técnicas, chegando a assumir a responsabilidade pela entrega da principal funcionalidade de IA da última sprint.
+- **Responsabilidade:** Me comprometi diretamente com as entregas mesmo em um cenário de alta demanda e mudanças no time. Também enfrentei inseguranças pessoais ao assumir tarefas mais complexas, o que me fez crescer em confiança e responsabilidade ao longo do projeto.
 
 </details>
