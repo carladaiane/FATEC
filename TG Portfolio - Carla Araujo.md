@@ -327,10 +327,6 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 * **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
 * **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
 * **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
-  
-### Soft Skills
-
-### Soft Skills
 
 ### Soft Skills
 
