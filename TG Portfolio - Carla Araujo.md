@@ -253,9 +253,9 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
 
 Atuei como Scrum Master do time, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Também contribuí para o alinhamento da equipe, acompanhamento das entregas e remoção de impedimentos, auxiliando no alcance dos objetivos do projeto.
 
-  Durante esta API, percebi que meu conhecimento sobre Scrum ainda era limitado e compreendi, na prática, o impacto que a atuação do Scrum Master pode ter no sucesso do time. Enfrentei desafios relacionados à gestão de tempo, distribuição de tarefas e cumprimento de prazos, o que me levou a refletir sobre aspectos que poderiam ter sido conduzidos de forma mais eficaz.
+Durante esta API, percebi que meu conhecimento sobre Scrum ainda era limitado e compreendi, na prática, o impacto que a atuação do Scrum Master pode ter no sucesso do time. Enfrentei desafios relacionados à gestão de tempo, distribuição de tarefas e cumprimento de prazos, o que me levou a refletir sobre aspectos que poderiam ter sido conduzidos de forma mais eficaz.
 
-Um dos principais desafios foi a gestão de uma equipe com um número elevado de integrantes. Embora tivéssemos recebido orientações dos professores sobre os benefícios de trabalhar com equipes menores, optamos por manter a composição original do grupo. Ao longo da sprint, percebemos que o tamanho da equipe dificultou o acompanhamento das atividades, a comunicação entre os membros e a distribuição equilibrada das responsabilidades.
+Um dos principais desafios foi a gestão de uma equipe com um número elevado de integrantes. Embora tivéssemos recebido orientações dos professores sobre os benefícios de trabalhar com equipes menores, optamos por manter a composição original do grupo. Ao longo da sprint, percebemos que o tamanho da equipe dificultou o acompanhamento das atividades, a comunicação entre os membros e a distribuição equilibrada das responsabilidades. Nesse contexto, também surgiram problemas como baixa adesão e comprometimento de alguns integrantes, atrasos recorrentes nas entregas, falta de clareza na divisão das tarefas e falhas na execução do planejamento da sprint, o que impactou diretamente a previsibilidade e a fluidez das entregas.
 
 Apesar das dificuldades, a experiência proporcionou um importante aprendizado sobre liderança, organização e gestão de equipes. Ao final da sprint, compreendi melhor a importância de manter equipes menores para possibilitar um acompanhamento mais próximo das atividades e uma gestão mais consistente, confirmando na prática as orientações recebidas ao longo do curso.
 
@@ -274,11 +274,11 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
   
 ### Soft Skills
 
-* **Trabalho em Equipe:** Promovi o alinhamento entre os integrantes do time, incentivando alinhamento a comunicação e a colaboração para garantir o andamento das atividades e o alcance dos objetivos da sprint.
-* **Gestão de Tarefas:** Desenvolvi habilidades de organização e acompanhamento das atividades, auxiliando na distribuição das demandas, monitoramento das entregas e identificação de impedimentos.
-* **Adaptabilidade:** Demonstrei capacidade de adaptação diante de mudanças inesperadas e desafios relacionados à gestão da equipe, ajustando estratégias conforme as necessidades do projeto.
-* **Responsabilidade:** Assumi o compromisso de conduzir as cerimnias ágeis, apoiar o time na execução das atividades e contribuir para o cumprimento dos objetivos estabelecidos, mantendo o comprometimento mesmo diante dos desafios enfrentados durante a sprint.
-* **Aprendizado Contínuo:** Ampliei meus conhecimentos sobre Scrum e gestão ágil, utilizando os desafios enfrentados durante a sprint como oportunidade de desenvolvimento profissional e pessoal.
+* **Trabalho em Equipe:** 
+* **Gestão de Tarefas:** 
+* **Adaptabilidade:** 
+* **Responsabilidade:** 
+* **Aprendizado Contínuo:** 
 
 </details>
 
