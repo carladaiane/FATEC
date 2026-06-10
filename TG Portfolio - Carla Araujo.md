@@ -153,7 +153,7 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
 ### Contribuições Pessoais
 
 Atuei como Scrum Master e desenvolvedora da equipe, assumindo pela primeira vez a responsabilidade de conduzir o processo ágil do projeto. Fui responsável pela condução das cerimônias, acompanhamento das atividades e apoio aos integrantes para o cumprimento dos objetivos das sprints. Paralelamente, participei do desenvolvimento da aplicação, contribuindo na implementação e evolução das funcionalidades.
-Durante o projeto, propus a utilização da ferramenta Jira para apoiar a gestão das atividades. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
+Durante o projeto, sugeri e implementei a utilização da ferramenta Jira para apoiar a gestão das atividades da equipe. No entanto, a adoção da ferramenta não foi bem recebida por parte da equipe, o que gerou alguns conflitos. Apesar das diferenças, o grupo manteve a colaboração e conseguiu realizar uma entrega satisfatória.
 Os principais desafios enfrentados foram técnicos, especialmente relacionados à limpeza e tratamento dos dados, exigindo aprendizado contínuo e trabalho conjunto para superar as dificuldades encontradas.
 
 </div>
@@ -250,7 +250,16 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
 ### Contribuições Pessoais
 
 <div align="justify">
-Scrum Master do time, responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Contribuí para o alinhamento entre os integrantes do time, acompanhamento das entregas e remoção de impedimentos, auxiliando na evolução do projeto e no cumprimento dos objetivos estabelecidos.
+
+Atuei como Scrum Master do time, sendo responsável pela organização das cerimônias ágeis, acompanhamento das sprints e apoio na definição e distribuição das atividades. Também contribuí para o alinhamento da equipe, acompanhamento das entregas e remoção de impedimentos, auxiliando no alcance dos objetivos do projeto.
+
+  Durante esta API, percebi que meu conhecimento sobre Scrum ainda era limitado e compreendi, na prática, o impacto que a atuação do Scrum Master pode ter no sucesso do time. Enfrentei desafios relacionados à gestão de tempo, distribuição de tarefas e cumprimento de prazos, o que me levou a refletir sobre aspectos que poderiam ter sido conduzidos de forma mais eficaz.
+
+Um dos principais desafios foi a gestão de uma equipe com um número elevado de integrantes. Embora tivéssemos recebido orientações dos professores sobre os benefícios de trabalhar com equipes menores, optamos por manter a composição original do grupo. Ao longo da sprint, percebemos que o tamanho da equipe dificultou o acompanhamento das atividades, a comunicação entre os membros e a distribuição equilibrada das responsabilidades.
+
+Apesar das dificuldades, a experiência proporcionou um importante aprendizado sobre liderança, organização e gestão de equipes. Ao final da sprint, compreendi melhor a importância de manter equipes menores para possibilitar um acompanhamento mais próximo das atividades e uma gestão mais consistente, confirmando na prática as orientações recebidas ao longo do curso.
+
+
 </div>
 
 ### Hard Skills
@@ -265,10 +274,11 @@ Scrum Master do time, responsável pela organização das cerimônias ágeis, ac
   
 ### Soft Skills
 
-* **Trabalho em Equipe:** Atuação próxima ao time para alinhamento das demandas e acompanhamento das entregas.
-* **Comunicação:** Mediação das discussões do projeto e suporte à troca de informações entre equipe e stakeholders.
-* **Organização:** Planejamento e acompanhamento das atividades para garantir o cumprimento dos objetivos definidos para cada sprint. Condução das cerimônias ágeis, acompanhamento das sprints, gestão de impedimentos e apoio à organização das atividades da equipe.
-
+* **Trabalho em Equipe:** Promovi o alinhamento entre os integrantes do time, incentivando alinhamento a comunicação e a colaboração para garantir o andamento das atividades e o alcance dos objetivos da sprint.
+* **Gestão de Tarefas:** Desenvolvi habilidades de organização e acompanhamento das atividades, auxiliando na distribuição das demandas, monitoramento das entregas e identificação de impedimentos.
+* **Adaptabilidade:** Demonstrei capacidade de adaptação diante de mudanças inesperadas e desafios relacionados à gestão da equipe, ajustando estratégias conforme as necessidades do projeto.
+* **Responsabilidade:** Assumi o compromisso de conduzir as cerimnias ágeis, apoiar o time na execução das atividades e contribuir para o cumprimento dos objetivos estabelecidos, mantendo o comprometimento mesmo diante dos desafios enfrentados durante a sprint.
+* **Aprendizado Contínuo:** Ampliei meus conhecimentos sobre Scrum e gestão ágil, utilizando os desafios enfrentados durante a sprint como oportunidade de desenvolvimento profissional e pessoal.
 
 </details>
 
@@ -299,7 +309,14 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
 ### Contribuições Pessoais
 
 <div align="justify">
-Scrum Master do time, atuei como desenvolvedora e Scrum Master da equipe, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, funcionalidades relacionadas à LGPD, sistema de logs e recursos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+Atuei inicialmente como desenvolvedora do time, contribuindo para a organização das sprints e para o alinhamento das atividades do projeto. No desenvolvimento da plataforma HiATHOS, participei da implementação de funcionalidades no backend e frontend, incluindo módulos de coleta de dados da ANEEL, recursos relacionados à LGPD, sistema de logs e mecanismos de auditoria. Também atuei no desenvolvimento da solução de Inteligência Artificial da plataforma, colaborando na implementação e integração de funcionalidades voltadas à análise e consulta de informações.
+
+No início da segunda sprint, o Product Owner deixou a equipe. Com isso, optamos por dividir o grupo, que passou a contar com apenas quatro integrantes. Após a reorganização dos papéis, a Scrum Master assumiu a função de Product Owner e eu passei a atuar como Scrum Master.
+
+Mesmo com a equipe reduzida e com um volume significativo de demandas pendentes e novas funcionalidades previstas, incluindo o desenvolvimento de recursos de Inteligência Artificial, conseguimos manter um fluxo de entrega mais consistente. A redução do time contribuiu para melhor comunicação, maior alinhamento entre os membros e mais agilidade na execução das atividades.
+
+Essa experiência mostrou, na prática, que equipes menores podem favorecer a organização e o acompanhamento das tarefas, desde que haja alinhamento e comprometimento entre os integrantes, resultando em entregas mais contínuas e consistentes.
+
 </div>
 
 ### Hard Skills
@@ -308,12 +325,14 @@ Scrum Master do time, atuei como desenvolvedora e Scrum Master da equipe, contri
 * **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
 * **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
 * **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
-
   
 ### Soft Skills
-* **Visão de Produto:** Participação nas decisões do projeto, considerando tanto os requisitos da ANEEL quanto as necessidades do cliente.
-* **Trabalho em Equipe:** Colaboração contínua com a equipe para desenvolvimento e entrega das funcionalidades propostas.
-* **Comunicação:** Alinhamento de atividades, acompanhamento de demandas e suporte à troca de informações entre os membros do grupo.
-* **Organização:** Auxílio no planejamento das atividades, distribuição de tarefas e acompanhamento do andamento das entregas.
+
+- **Visão de Produto:** Compreensão do impacto das funcionalidades no sistema como um todo, alinhando desenvolvimento técnico às necessidades do projeto, incluindo integrações como coleta de dados, LGPD e IA.
+- **Trabalho em Equipe:** Colaboração ativa na organização das sprints e no alinhamento das atividades, contribuindo para a entrega conjunta mesmo diante de mudanças de papéis e redução do time.
+- **Comunicação:** Melhoria na troca de informações entre os membros, especialmente após a reorganização da equipe, favorecendo alinhamento e redução de retrabalho.
+- **Organização:** Apoio na estruturação das sprints e na distribuição de tarefas, além de adaptação à gestão de demandas acumuladas e novas funcionalidades.
+- **Adaptabilidade:** Atuação em diferentes papéis (desenvolvedora e Scrum Master) e adaptação a mudanças estruturais no time, mantendo o fluxo de entregas.
+- **Responsabilidade:** Comprometimento com as entregas e com a condução das atividades do time, mesmo em cenários de alta demanda e reorganização da equipe.
 
 </details>
