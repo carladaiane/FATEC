@@ -330,10 +330,10 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 
 ### Soft Skills
 
-- **Visão de Produto:** Com o grupo menor, me envolvi de forma mais ativa com o produto e com as entregas, passando a entender melhor o impacto de cada funcionalidade no sistema. Isso me fez participar mais das decisões e opinar com mais segurança sobre o direcionamento das entregas.
-- **Trabalho em Equipe:** Com a redução do time, percebi na prática a importância de estar mais próxima dos outros membros. Passei a entender melhor como o meu trabalho impactava o deles e como o trabalho deles impactava o meu, o que fortaleceu a colaboração e o senso de equipe.
-- **Comunicação:** Com um time menor, senti que a comunicação ficou mais direta e centralizada. Isso facilitou os alinhamentos e me ajudou a me comunicar de forma mais clara e objetiva, contribuindo mais ativamente para as decisões do grupo.
-- **Organização:** Precisei me envolver mais na organização das sprints e na distribuição das tarefas. Com as demandas acumuladas e novas funcionalidades, desenvolvi mais disciplina para estruturar e acompanhar o andamento das atividades.
+- **Visão de Produto:** Me envolvi de forma mais ativa com o produto e com as entregas, passando a entender melhor o impacto de cada funcionalidade no sistema. Isso me fez participar mais das decisões e opinar com mais segurança sobre o direcionamento das entregas.
+- **Trabalho em Equipe:** Vivi na prática a importância de estar mais próxima dos outros membros. Passei a entender melhor como o meu trabalho impactava o deles e como o trabalho deles impactava o meu, o que fortaleceu a colaboração e o senso de equipe.
+- **Comunicação:** Nesse semestre consegui me comunicar de forma mais clara e objetiva, contribuindo mais ativamente para as decisões do grupo.
+- **Organização:** Me envolvi mais na organização das sprints e na distribuição das tarefas. Com as demandas acumuladas e novas funcionalidades, desenvolvi mais disciplina para estruturar e acompanhar o andamento das atividades.
 - **Adaptabilidade:** Atuei em diferentes papéis (desenvolvedora e Scrum Master), o que me forçou a sair da zona de conforto. Nesse processo, precisei me adaptar rapidamente e desenvolvi mais minhas habilidades técnicas, chegando a assumir a responsabilidade pela entrega da principal funcionalidade de IA da última sprint.
 - **Responsabilidade:** Me comprometi diretamente com as entregas mesmo em um cenário de alta demanda e mudanças no time. Também enfrentei inseguranças pessoais ao assumir tarefas mais complexas, o que me fez crescer em confiança e responsabilidade ao longo do projeto.
 
