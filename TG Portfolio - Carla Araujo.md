@@ -276,7 +276,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 
 * **Gestão de Tarefas:** Consegui entender como distribuir melhor as tarefas e conduzir melhor as cerimônias na metodologia scrum.
 * **Responsabilidade:** Tive que ter mais senso de responsabilidade, pois o devops dependia de nota em grupo, minha entrega afetaria meus colegas.
-* **Aprendizado Contínuo:** Tive que me inteirar mais sobre como funcionava devops e entender como o processo deveria funcionar em cada uma das suas etapa. 
+* **Adaptabilidade:** Tive que me inteirar mais sobre como funcionava devops e entender como o processo deveria funcionar em cada uma das suas etapa. 
 
 </details>
 
