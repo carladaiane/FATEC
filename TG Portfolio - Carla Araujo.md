@@ -215,7 +215,6 @@ Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter 
 - **GitHub Projects & Issues**
 
 ### Soft Skills
-### Soft Skills
 
 - **Adaptabilidade** – Ajuste às mudanças de planejamento e redistribuição de responsabilidades após a saída da Product Owner.
 - **Colaboração** – Trabalho conjunto com a equipe para definição de prioridades e continuidade do desenvolvimento do projeto.
@@ -264,6 +263,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 
 ### Hard Skills
 
+* **Scrum Master:** 
 * **Python / Django:** Apoio no desenvolvimento e validação de funcionalidades relacionadas aos relatórios da aplicação.
 * **Integração com API do Jira:** Acompanhamento das integrações utilizadas para coleta e processamento de informações do sistema.
 * **PostgreSQL (OLTP/OLAP):** Participação nas discussões sobre estruturação e organização dos dados utilizados pela plataforma.
@@ -274,11 +274,9 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
   
 ### Soft Skills
 
-* **Trabalho em Equipe:** 
-* **Gestão de Tarefas:** 
-* **Adaptabilidade:** 
-* **Responsabilidade:** 
-* **Aprendizado Contínuo:** 
+* **Gestão de Tarefas:** Consegui entender como distribuir melhor as tarefas e conduzir melhor as cerimônias na metodologia scrum.
+* **Responsabilidade:** Tive que ter mais senso de responsabilidade, pois o devops dependia de nota em grupo, minha entrega afetaria meus colegas.
+* **Aprendizado Contínuo:** Tive que me inteirar mais sobre como funcionava devops e entender como o processo deveria funcionar em cada uma das suas etapa. 
 
 </details>
 
