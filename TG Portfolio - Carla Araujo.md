@@ -120,6 +120,9 @@ Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e p
 - **Aprendizado Contínuo:** Busca constante por novos conhecimentos para compreender tecnologias, regras de negócio e conceitos necessários para o desenvolvimento da solução.
 - **Colaboração:** Trabalho conjunto com os demais integrantes para superar dificuldades técnicas e contribuir para as entregas do projeto.
 
+<img width="1335" height="634" alt="image" src="https://github.com/user-attachments/assets/fc7c3a8d-aaf2-4618-890d-18e71ce5e5fb" />
+
+
 </details>
 
 <details>
