@@ -1,4 +1,3 @@
-
 # Carla Daiane Freitas dos Santos Araujo
 
 ## Descrição
@@ -75,6 +74,7 @@ Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuiç
 * **Autoconfiança:** Ganhei mais segurança para executar tarefas e organizar minhas atividades. Além disso, percebi a importância de me manter mais disponível para apoiar as demandas da equipe e contribuir ativamente para o andamento do projeto.
 </details>
 
+<img width="1280" height="720" alt="Adobe Express - 2026-06-14 16-35-03" src="https://github.com/user-attachments/assets/970084ba-3a9e-4411-8e6b-85c59575cad5" />
 
 <details>
   <summary><strong>2° Semestre - 2024.1</strong></summary>
