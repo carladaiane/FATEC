@@ -170,6 +170,8 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 - **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação
 - **REST API Design** – DTOs, versionamento, tratamento de exceções
 - **Scrum Master** – Conduzir cerimônias, atenção ao prazo e entregas planejadas
+
+<div align="justify">
   
 ### Soft Skills Trabalhadas
 
@@ -179,8 +181,9 @@ Durante o projeto, precisei lidar com situações de conflito envolvendo a adoç
 A **colaboração** esteve presente principalmente no trabalho conjunto com a equipe para resolver bugs e alinhar regras de negócio, incluindo momentos de pair programming que ajudaram na evolução das soluções implementadas.
 Também desenvolvi minha **proatividade**, ao buscar melhorias e otimizações durante o desenvolvimento, contribuindo com soluções antes dos prazos finais quando identifiquei oportunidades de melhoria.
 Por fim, a **organização** foi essencial no gerenciamento das tarefas no Jira, ajudando a manter o controle das histórias, acompanhar estimativas e sustentar o ritmo de entrega do time.
-
+</div>
 </details>
+
 
 <details>
   <summary><strong>4° Semestre - 2025.1</strong></summary>
