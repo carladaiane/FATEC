@@ -350,4 +350,11 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 - **Adaptabilidade:** Atuei em diferentes papéis (desenvolvedora e Scrum Master), o que me forçou a sair da zona de conforto. Nesse processo, precisei me adaptar rapidamente e desenvolvi mais minhas habilidades técnicas, chegando a assumir a responsabilidade pela entrega da principal funcionalidade de IA da última sprint.
 - **Responsabilidade:** Me comprometi diretamente com as entregas mesmo em um cenário de alta demanda e mudanças no time. Também enfrentei inseguranças pessoais ao assumir tarefas mais complexas, o que me fez crescer em confiança e responsabilidade ao longo do projeto.
 
+
+<img width="692" height="388" alt="Login" src="https://github.com/user-attachments/assets/b7c2ccc2-011a-4ca4-bddc-9c6bc8d0bd0c" />
+<img width="692" height="388" alt="mapa de calor" src="https://github.com/user-attachments/assets/3341596b-44fe-412c-b327-30e110a60c4d" />
+<img width="692" height="388" alt="Previsão DEC e FEC - AI" src="https://github.com/user-attachments/assets/fc0cbacd-d2c5-408d-ba1b-059f1551597f" />
+<img width="692" height="388" alt="Termos e Logs" src="https://github.com/user-attachments/assets/4a331823-16c3-4e19-aa2d-e5af0f373ae8" />
+
+
 </details>
