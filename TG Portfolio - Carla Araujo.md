@@ -226,11 +226,12 @@ Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter 
 - **Hibernate/JPA**
 - **GitHub Projects & Issues**
 
-### Soft Skills
+### Soft Skills Trabalhadas
 
-- **Adaptabilidade** – Ajuste às mudanças de planejamento e redistribuição de responsabilidades após a saída da Product Owner.
-- **Colaboração** – Trabalho conjunto com a equipe para definição de prioridades e continuidade do desenvolvimento do projeto.
-- **Gestão do Tempo** – Planejamento e priorização das atividades para manter as entregas dentro dos prazos, mesmo diante da reorganização da equipe e das mudanças ocorridas durante o projeto.
+Durante o projeto, desenvolvi minha **Adaptabilidade** ao lidar com mudanças na equipe e no planejamento, especialmente após a saída da Product Owner. Foi necessário assumir novas responsabilidades e me ajustar rapidamente às mudanças para garantir a continuidade das atividades.
+Também fortalecei minha **Colaboração**, trabalhando em conjunto com os demais integrantes para definir prioridades, redistribuir tarefas e manter o desenvolvimento do projeto mesmo diante dos desafios enfrentados pela equipe.
+Além disso, aprimorei minha **Gestão do Tempo**, organizando e priorizando as atividades para cumprir os prazos estabelecidos. A necessidade de conciliar as demandas do projeto com as mudanças ocorridas ao longo das sprints exigiu um acompanhamento mais cuidadoso das tarefas e das entregas.
+
   
 </details>
 
