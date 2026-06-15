@@ -107,7 +107,7 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 #### Contribuições Pessoais
 
 <div align="justify">
-Atuei como desenvolvedora da equipe e, desta vez, enfrentei desafios diferentes dos projetos anteriores. Com a mudança de equipe, precisei me adaptar a novos integrantes, novas formas de trabalho e novos processos. Além disso, o projeto era focado em tratamento de dados, o que exigiu maior dedicação para compreender as regras de negócio e as soluções adotadas pelo grupo.
+Atuei como desenvolvedora da equipe e, desta vez, enfrentei desafios diferentes dos projetos anteriores. EU sai do primeiro time, entrei em um que não conhecia quase ninguem, precisei me adaptar a novos integrantes, novas formas de trabalho e novos processos. Além disso, o projeto era focado em tratamento de dados, o que exigiu maior dedicação para compreender as regras de negócio e as soluções adotadas pelo grupo.
 Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e precisei me adaptar ao desenvolvimento de uma aplicação desktop, tecnologia com a qual eu tinha pouca experiência. Apesar dos desafios, consegui ampliar meus conhecimentos técnicos e me integrar à dinâmica da equipe ao longo do projeto.
 
 </div>
@@ -117,10 +117,11 @@ Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e p
 * **Java:** Meu primeiro contato com java, aprendi conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
 
-#### Soft Skills
-- **Adaptabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
-- **Aprendizado Contínuo:** Busca constante por novos conhecimentos para compreender tecnologias, regras de negócio e conceitos necessários para o desenvolvimento da solução.
-- **Colaboração:** Trabalho conjunto com os demais integrantes para superar dificuldades técnicas e contribuir para as entregas do projeto.
+### Soft Skills Trabalhadas
+
+Ao ingressar em uma nova equipe durante o projeto, precisei desenvolver minha **adaptabilidade** para me integrar a uma dinâmica de trabalho diferente, compreender novos processos e construir relacionamento com pessoas que eu ainda não conhecia.
+Também fortalecei meu **aprendizado contínuo**, pois o projeto envolvia tratamento de dados e o desenvolvimento de uma aplicação desktop, áreas com as quais eu tinha pouca experiência. Isso exigiu dedicação para aprender novas tecnologias, entender as regras de negócio e acompanhar as decisões técnicas adotadas pelo grupo.
+Além disso, a experiência reforçou minha **colaboração**, já que foi necessário trabalhar em conjunto com os demais integrantes para superar dificuldades, compartilhar conhecimento e contribuir para as entregas da equipe.
 
 <img width="1335" height="634" alt="image" src="https://github.com/user-attachments/assets/fc7c3a8d-aaf2-4618-890d-18e71ce5e5fb" />
 
@@ -168,15 +169,16 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 ### Hard Skill 
 - **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação
 - **REST API Design** – DTOs, versionamento, tratamento de exceções
+- **Scrum Master** – Conduzir cerimônias, atenção ao prazo e entregas planejadas
   
-### Soft Skills
+### Soft Skills Trabalhadas
 
-- **Responsabilidade:** Comprometimento com o acompanhamento das atividades da equipe e com a entrega dos objetivos definidos para as sprints.
-- **Comunicação:** Evolução na interação com a equipe, no alinhamento de atividades e na busca por ajuda para superar desafios técnicos.
-- **Resolução de Conflitos:** Consegui lidar de maneira mais assertiva com os conflitos durante durante o projeto
-- **Colaboração:** Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
-- **Proatividade:** Identifiquei e implementei otimizações de performance antes dos deadlines.  
-- **Organização:** Consegui gerenciar tarefas no Jira, atendendo estimativas das histórias e mantendo o ritmo de entrega.
+Ao atuar como Scrum Master e desenvolvedora, desenvolvi principalmente minha **responsabilidade** ao acompanhar as atividades da equipe e garantir o andamento das entregas dentro dos objetivos das sprints. Essa experiência exigiu comprometimento constante com o que foi planejado e com o suporte ao time durante o desenvolvimento.
+Também evoluí minha **comunicação**, tanto no alinhamento das atividades quanto na busca por ajuda para resolver problemas técnicos e organizar melhor o fluxo do projeto. Em alguns momentos, isso foi essencial para manter o andamento das entregas.
+Durante o projeto, precisei lidar com situações de conflito envolvendo a adoção de ferramentas e formas de trabalho, o que contribuiu para o desenvolvimento da minha **resolução de conflitos**, aprendendo a lidar com divergências de forma mais equilibrada e assertiva.
+A **colaboração** esteve presente principalmente no trabalho conjunto com a equipe para resolver bugs e alinhar regras de negócio, incluindo momentos de pair programming que ajudaram na evolução das soluções implementadas.
+Também desenvolvi minha **proatividade**, ao buscar melhorias e otimizações durante o desenvolvimento, contribuindo com soluções antes dos prazos finais quando identifiquei oportunidades de melhoria.
+Por fim, a **organização** foi essencial no gerenciamento das tarefas no Jira, ajudando a manter o controle das histórias, acompanhar estimativas e sustentar o ritmo de entrega do time.
 
 </details>
 
