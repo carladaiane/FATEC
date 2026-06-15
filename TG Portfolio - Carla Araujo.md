@@ -67,11 +67,13 @@ Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuiç
 * **Python:** Primeiro contato com a construção de fluxos dentro de uma aplicação, desenvolvendo autonomia na implementação de lógicas e processos básicos.
 * **Estruturas de dados:** Aprendizado prático no manuseio de JSON e diferentes tipos de dados, incluindo a necessidade de realizar conversões (casting) durante o desenvolvimento.
 * **JavaScript, HTML e CSS:** Desenvolvimento de interfaces mais complexas, adquirindo base suficiente para implementação e manutenção de telas web.
-
-### Soft Skills
-
-* **Adaptabilidade:** esenvolvi a capacidade de me adaptar a mudanças no projeto, especialmente após a redistribuição de atividades na equipe e os ajustes necessários ao longo das sprints.
-* **Autoconfiança:** Ganhei mais segurança para executar tarefas e organizar minhas atividades. Além disso, percebi a importância de me manter mais disponível para apoiar as demandas da equipe e contribuir ativamente para o andamento do projeto.
+<div align="justify">
+  
+### Soft Skills Trabalhadas
+Esta API contribuiu principalmente para o desenvolvimento da minha **autoconfiança**, **comunicação** e **adaptabilidade**. Por ser minha primeira experiência em um projeto de desenvolvimento de software, precisei aprender a lidar com desafios técnicos, expor dúvidas e buscar ajuda quando necessário. Com o tempo, ganhei mais segurança para realizar minhas atividades e participar das discussões da equipe, fortalecendo minha **autoconfiança** e minha **comunicação**.
+Também desenvolvi minha **adaptabilidade** ao lidar com as mudanças ocorridas no grupo, especialmente após a saída de alguns integrantes e a redistribuição das tarefas. Essa situação exigiu **colaboração** e comprometimento de toda a equipe para manter o andamento do projeto e cumprir as entregas previstas.
+Além disso, a experiência reforçou a importância do **trabalho em equipe**, entendi que a troca de conhecimento e o apoio entre os integrantes são fundamentais para superar dificuldades e alcançar os objetivos do projeto.
+</div>
 
 <img width="1280" height="720" alt="Adobe Express - 2026-06-14 16-35-03" src="https://github.com/user-attachments/assets/970084ba-3a9e-4411-8e6b-85c59575cad5" />
 
