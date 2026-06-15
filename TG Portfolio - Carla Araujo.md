@@ -167,9 +167,9 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 </div>
 
 ### Hard Skill 
-- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação
-- **REST API Design** – DTOs, versionamento, tratamento de exceções
-- **Scrum Master** – Conduzir cerimônias, atenção ao prazo e entregas planejadas
+- **Spring Data JPA:** Consultas dinâmicas, relacionamentos M:N, paginação
+- **REST API Design:** DTOs, versionamento, tratamento de exceções
+- **Scrum Master:** Conduzir cerimônias, atenção ao prazo, processo e entregas planejadas
 
 <div align="justify">
   
@@ -281,8 +281,8 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 * **Integração com API do Jira:** Acompanhamento das integrações utilizadas para coleta e processamento de informações do sistema.
 * **PostgreSQL (OLTP/OLAP):** Participação nas discussões sobre estruturação e organização dos dados utilizados pela plataforma.
 * **Docker:** Utilização de ambientes containerizados durante o desenvolvimento do projeto.
-* **Exportação PDF:** Colaboração na validação e acompanhamento das funcionalidades de geração de relatórios em PDF.
-
+* **Testes:** Colaboração na validação e acompanhamento das funcionalidades de geração de relatórios em PDF.
+* - **Scrum Master:** Conduzir cerimônias atenção ao prazo, processo e entregas planejadas
 
   
 ### Soft Skills
@@ -338,6 +338,8 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 * **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
 * **MongoDB:** Armazenamento de logs de autenticação e auditoria do sistema.
 * **Docker:** Containerização dos serviços e bancos de dados para padronização dos ambientes de desenvolvimento e implantação.
+* **Scrum Master:** Conduzir cerimônias atenção ao prazo, processo e entregas planejadas
+
 
 ### Soft Skills
 
