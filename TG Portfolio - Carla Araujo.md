@@ -1,6 +1,6 @@
 # Carla Daiane Freitas dos Santos Araujo
 
-## Descrição
+### Descrição
 
 <div align="justify">
 
@@ -14,18 +14,26 @@
 
 </div>
 
-## Contatos
+### Contatos
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carladaiane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
-## Meus Principais Conhecimentos
-- **Metodologias Ágeis** - Scrum
+### Meus Principais Conhecimentos
+
+#### Desenvolvimento Back-end
 - **Java**
 - **Python**
-- **SQL / NoSQL** 
-- **APIs REST** - Modelagem de endpoints, DTOs
+- **APIs REST** (modelagem de endpoints, DTOs)
+
+#### Banco de Dados
+- **SQL**
+- **NoSQL**
 - **Modelagem de Dados**
+
+#### Metodologias e Processos
+- **Scrum**
+- **Metodologias Ágeis**
 
 ## Meus Projetos
 
