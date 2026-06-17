@@ -98,7 +98,7 @@ Além disso, a experiência reforçou a importância do **trabalho em equipe**, 
 ### 🎯 Objetivo
 
 <div align="justify">
-Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáticos de cidades do estado de São Paulo, permitindo a geração de relatórios estatísticos e consultas a partir de informações coletadas por diferentes estações meteorológicas. Projeto para cliente interno (professor).
+Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáticos de cidades do estado de São Paulo, permitindo a geração de relatórios estatísticos e consultas a partir de informações coletadas por diferentes estações meteorológicas.
 </div>
 
 <br/>
@@ -207,7 +207,7 @@ Por fim, a **organização** foi essencial no gerenciamento das tarefas no Jira,
 
 ### 🎯 Objetivo
 <div align="justify">  
-Desenvolver uma plataforma web voltada à manipulação e visualização de dados agrícolas, permitindo a consolidação de informações sobre áreas, safras e produtividade por meio de dashboards, relatórios gerenciais e mapas interativos. A solução foi composta por módulos backend e frontend, disponibilizando acesso aos dados tanto por interface web quanto por APIs RESTful. Projeto desenvolvido em parceria com a Visiona.
+Desenvolver uma plataforma web voltada à manipulação e visualização de dados agrícolas, permitindo a consolidação de informações sobre áreas, safras e produtividade por meio de dashboards, relatórios gerenciais e mapas interativos. A solução foi composta por módulos backend e frontend, disponibilizando acesso aos dados tanto por interface web quanto por APIs RESTful.
 <div align="justify">
 <br/>
 <p>
@@ -257,7 +257,7 @@ Além disso, aprimorei minha **Gestão do Tempo**, organizando e priorizando as 
 
 ### 🎯 Objetivo
 <div align="justify">
-Desenvolver uma plataforma analítica web para gestão de projetos, responsável pela integração de dados via API, consolidação das informações em um Data Warehouse e geração de indicadores, dashboards e relatórios gerenciais. A solução conta com controle de acesso por perfil e foi desenvolvida em parceria com a Necto.
+Desenvolver uma plataforma analítica web para gestão de projetos, responsável pela integração de dados via API, consolidação das informações em um Data Warehouse e geração de indicadores, dashboards e relatórios gerenciais. A solução conta com controle de acesso por perfil, permitindo o gerenciamento seguro das informações e a visualização dos dados conforme as permissões de cada usuário.
 </div>
 
 <br/>
@@ -316,7 +316,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
   
 ### 🎯 Objetivo
 <div align="justify">
-Desenvolver de uma plataforma analítica web voltada ao tratamento e visualização de dados públicos da ANEEL, com o objetivo de transformar informações regulatórias em indicadores estruturados que auxiliem na compreensão e análise do setor elétrico brasileiro. Projeto desenvolvido em parceria com a TECSYS.
+Desenvolver de uma plataforma analítica web voltada ao tratamento e visualização de dados públicos da ANEEL, com o objetivo de transformar informações regulatórias em indicadores estruturados que auxiliem na compreensão e análise do setor elétrico brasileiro.
 </div>
 
 <br/>
