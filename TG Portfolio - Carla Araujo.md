@@ -55,7 +55,7 @@ Desenvolver um sistema interno de gestão e acompanhamento de scores para a inst
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 * **Python**
 * **Flask**
@@ -73,7 +73,7 @@ Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuiç
 
 </div>
 
-### 📚 Hard Skills
+### 📚 Hard Skills Desenvolvidas
 
 * **Python:** Primeiro contato com a construção de fluxos dentro de uma aplicação, desenvolvendo autonomia na implementação de lógicas e processos básicos.
 * **Estruturas de dados:** Aprendizado prático no manuseio de JSON e diferentes tipos de dados, incluindo a necessidade de realizar conversões (casting) durante o desenvolvimento.
@@ -108,7 +108,7 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 * **Java 22:** Base para o desenvolvimento da aplicação desktop.
 * **JDBC:** Conexão e persistência de dados em banco de dados relacional.
@@ -124,7 +124,7 @@ Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e p
 
 </div>
 
-### 📚 Hard Skills
+### 📚 Hard Skills Desenvolvidas
 
 * **Java:** Meu primeiro contato com java, aprendi conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
@@ -157,7 +157,7 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 #### Backend
 
@@ -198,7 +198,8 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 
 </div>
 
-### 📚 Hard Skill 
+### 📚 Hard Skills Desenvolvidas
+
 - **Spring Data JPA:** Consultas dinâmicas, relacionamentos M:N, paginação
 - **REST API Design:** DTOs, versionamento, tratamento de exceções
 - **Scrum Master:** Conduzir cerimônias, atenção ao prazo, processo e entregas planejadas
@@ -233,7 +234,7 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 * **Java 22Spring Boot 3.3.3 (Web, Data JPA, Security e DevTools):** Backend.
 * **MySQL:** Banco de dados relacional para persistência dos dados.
@@ -250,7 +251,7 @@ Atuei como desenvolvedora da equipe, contribuindo com a implementação de melho
 Durante o projeto, enfrentamos um desafio inesperado quando a Product Owner deixou a equipe próximo ao final da segunda sprint. Com isso, foi necessário redistribuir responsabilidades e reorganizar o planejamento das atividades. Além disso, iniciamos a terceira sprint sem um backlog previamente validado, o que exigiu maior alinhamento entre os integrantes para definição das prioridades.
 Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter o andamento do projeto e realizar uma entrega consistente ao final do ciclo de desenvolvimento.
 
-### 📚 Hard Skills
+### 📚 Hard Skills Desenvolvidas
 - **Java 22** 
 - **Spring Boot 3.3.3** 
 - **MySQL**
@@ -285,7 +286,7 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 * **Python 3.11 / Django:** Backend.
 * **JavaScript / HTMX:** Frontend.
@@ -308,7 +309,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 
 </div>
 
-### 📚 Hard Skills
+### 📚 Hard Skills Desenvolvidas
 
 * **Scrum Master:** 
 * **Python / Django:** Apoio no desenvolvimento e validação de funcionalidades relacionadas aos relatórios da aplicação.
@@ -343,7 +344,7 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
   </a>
 </p>
 
-### 🛠️ Tecnologias do Projeto
+### 🛠️ Tecnologias Aplicadas no Projeto
 
 * **Java 21 / Spring Boot:** Backend.
 * **Vue 3 / Vuetify / TypeScript:** Frontend.
@@ -367,7 +368,7 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 
 </div>
 
-### 📚 Hard Skills
+### 📚 Hard Skills Desenvolvidas
 
 * **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
 * **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
