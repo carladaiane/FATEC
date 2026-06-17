@@ -38,11 +38,14 @@
 ## Meus Projetos
 
 <details>
-  <summary><strong>1° Semestre - 2023.2</strong></summary>
-
-### Missão
+  <summary><strong>1° Semestre 2023.2 | Empresa Parceira FATEC</strong></summary>
 <div align="justify">
+  
+#### Objetivo
+
+<p>  
 Desenvolver um sistema interno de gestão e acompanhamento de scores para a instituição de ensino PBLTeX, especializada em cursos práticos de ensino aplicando PBL, visando otimizar a avaliação do Fator de Ensino Evolutivo (FEE) e fortalecer sua posição no mercado de edtechs.
+</p>
 </div>
 
 <br/>
@@ -89,7 +92,7 @@ Além disso, a experiência reforçou a importância do **trabalho em equipe**, 
 
 
 <details>
-  <summary><strong>2° Semestre - 2024.1</strong></summary>
+  <summary><strong>2° Semestre 2024.1 | Empresa Parceira FATEC</strong></summary>
 
 ### Missão
 
@@ -137,7 +140,7 @@ Além disso, a experiência reforçou minha **colaboração**, já que foi neces
 </details>
 
 <details>
-  <summary><strong>3° Semestre - 2024.2</strong></summary>
+  <summary><strong>3° Semestre 2024.2 | Empresa Parceira GSW (Global Solutions & Web)</strong></summary>
   
 <div align="justify">
 
@@ -194,7 +197,7 @@ Por fim, a **organização** foi essencial no gerenciamento das tarefas no Jira,
 
 
 <details>
-  <summary><strong>4° Semestre - 2025.1</strong></summary>
+  <summary><strong>4° Semestre 2025.1 | Empresa Parceira Visiona</strong></summary>
 
 ### Missão
 <div align="justify">  
@@ -245,7 +248,7 @@ Além disso, aprimorei minha **Gestão do Tempo**, organizando e priorizando as 
 
 
 <details>
-  <summary><strong>5° Semestre - 2025.2</strong></summary>
+  <summary><strong>5° Semestre 2025.2 | Empresa Parceira Necto</strong></summary>
 
 ### Missão
 <div align="justify">
@@ -303,7 +306,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 
 
 <details>
-  <summary><strong>6° Semestre - 2026.1</strong></summary>
+  <summary><strong>6° Semestre 2026.1 | Empresa Parceira TECSYS</strong></summary>
   
 ### Missão
 <div align="justify">
