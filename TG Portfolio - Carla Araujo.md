@@ -55,7 +55,7 @@ Desenvolver um sistema interno de gestão e acompanhamento de scores para a inst
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
 
 * **Python**
 * **Flask**
@@ -77,7 +77,8 @@ Durante o desenvolvimento, parte da equipe se desligou, exigindo a redistribuiç
 
 * **Python:** Primeiro contato com a construção de fluxos dentro de uma aplicação, desenvolvendo autonomia na implementação de lógicas e processos básicos.
 * **Estruturas de dados:** Aprendizado prático no manuseio de JSON e diferentes tipos de dados, incluindo a necessidade de realizar conversões (casting) durante o desenvolvimento.
-* **JavaScript, HTML e CSS:** Desenvolvimento de interfaces mais complexas, adquirindo base suficiente para implementação e manutenção de telas web.
+* **JavaScript:** Desenvolvimento de interfaces mais complexas, adquirindo base suficiente para implementação e manutenção de telas web.
+  
 <div align="justify">
   
 ### Soft Skills Trabalhadas
@@ -107,9 +108,9 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
 
-* **Java SE (JDK 22):** Base para o desenvolvimento da aplicação desktop.
+* **Java 22:** Base para o desenvolvimento da aplicação desktop.
 * **JDBC:** Conexão e persistência de dados em banco de dados relacional.
 * **MySQL:** Armazenamento e manipulação dos dados climáticos.
 * **Swing:** Construção da interface gráfica da aplicação.
@@ -155,7 +156,7 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
 
 * **Java 22:** Linguagem base da aplicação, utilizando recursos modernos da JVM.
 * **Spring Boot 3.3.3 (Web, Data JPA, Thymeleaf e DevTools):** Desenvolvimento do backend e integração dos componentes da aplicação.
@@ -210,9 +211,9 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
 
-* **Java 22 e Spring Boot 3.3.3 (Web, Data JPA, Security e DevTools):** Backend.
+* **Java 22Spring Boot 3.3.3 (Web, Data JPA, Security e DevTools):** Backend.
 * **MySQL:** Banco de dados relacional para persistência dos dados.
 * **Docker:** Containerização do ambiente para padronização e execução da aplicação.
 * **Vue.js:** Interface web.
@@ -262,7 +263,7 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
 
 * **Python 3.11 / Django:** Backend.
 * **JavaScript / HTMX:** Frontend.
@@ -320,7 +321,8 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
   </a>
 </p>
 
-### Tecnologias Utilizadas
+### Tecnologias do Projeto
+
 * **Java 21 / Spring Boot:** Backend.
 * **Vue 3 / Vuetify / TypeScript:** Frontend.
 * **PostgreSQL:** Banco de dados principal.
@@ -344,6 +346,7 @@ Essa experiência mostrou, na prática, que a eficiência do time não está ape
 </div>
 
 ### Hard Skills
+
 * **Java e Spring Boot:** Desenvolvimento de APIs para coleta, validação e armazenamento de dados públicos da ANEEL.
 * **Vue 3, TypeScript e Vuetify:** Criação de interfaces para gerenciamento de usuários, logs administrativos e filtros de visualização de dados.
 * **PostgreSQL:** Modelagem e gerenciamento do banco de dados, com controle de acesso e rastreabilidade das informações.
