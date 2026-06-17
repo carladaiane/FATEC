@@ -41,7 +41,7 @@
   <summary><strong>1° Semestre 2023.2 | Empresa Parceira FATEC</strong></summary>
 <div align="justify">
   
-#### 🎯 Objetivo
+### 🎯 Objetivo
 
 <p>  
 Desenvolver um sistema interno de gestão e acompanhamento de scores para a instituição de ensino PBLTeX, especializada em cursos práticos de ensino aplicando PBL, visando otimizar a avaliação do Fator de Ensino Evolutivo (FEE) e fortalecer sua posição no mercado de edtechs.
@@ -274,7 +274,7 @@ Além disso, aprimorei minha **Gestão do Tempo**, organizando e priorizando as 
 <details>
   <summary><strong>5° Semestre 2025.2 | Empresa Parceira Necto</strong></summary>
 
-#### 🎯 Objetivo
+### 🎯 Objetivo
 <div align="justify">
 Desenvolver uma plataforma analítica web para gestão de projetos, responsável pela integração de dados via API, consolidação das informações em um Data Warehouse e geração de indicadores, dashboards e relatórios gerenciais. A solução conta com controle de acesso por perfil e foi desenvolvida em parceria com a Necto.
 </div>
@@ -332,7 +332,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 <details>
   <summary><strong>6° Semestre 2026.1 | Empresa Parceira TECSYS</strong></summary>
   
-#### 🎯 Objetivo
+### 🎯 Objetivo
 <div align="justify">
 Desenvolver de uma plataforma analítica web voltada ao tratamento e visualização de dados públicos da ANEEL, com o objetivo de transformar informações regulatórias em indicadores estruturados que auxiliem na compreensão e análise do setor elétrico brasileiro. Projeto desenvolvido em parceria com a TECSYS.
 </div>
