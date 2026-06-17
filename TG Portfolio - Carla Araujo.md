@@ -147,7 +147,7 @@ Além disso, a experiência reforçou minha **colaboração**, já que foi neces
 <div align="justify">
 
 ### 🎯 Objetivo
-Desenvolver uma aplicação web para capturar, organizar e disponibilizar grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas, permitindo a pesquisa, filtragem e categorização automatizada das informações. Projeto executado em parceria com a GSW (Global Solutions & Web).
+Desenvolver uma aplicação web para capturar, organizar e disponibilizar grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas, permitindo a pesquisa, filtragem e categorização automatizada das informações.
 </div>
 
 <br/>
@@ -159,32 +159,14 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-#### Backend
-
 * **Java 22:** Linguagem base da aplicação, utilizando recursos modernos da JVM.
-* **Spring Boot 3.3.3:** Framework principal para desenvolvimento do backend.
-
-  * Spring Web
-  * Spring Data JPA
-  * Spring Boot DevTools
+* **Spring Boot** Framework principal para desenvolvimento do backend.
 * **Lombok:** Redução de código repetitivo (boilerplate).
 * **Jackson:** Conversão e manipulação de dados em formatos JSON e XML.
-
-#### Banco de Dados
-
 * **MySQL:** Banco de dados relacional.
-
-#### Coleta e Processamento de Dados
-
 * **Jsoup:** Coleta e processamento de dados por meio de web scraping.
-
-#### Frontend
-
 * **Thymeleaf:** Template engine para construção das páginas da aplicação.
 * **Bootstrap:** Estilização e responsividade da interface web.
-
-#### Gerenciamento e Build
-
 * **Maven:** Gerenciamento de dependências e automação do processo de build.
 
 
@@ -236,12 +218,13 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Java 22Spring Boot 3.3.3 (Web, Data JPA, Security e DevTools):** Backend.
-* **MySQL:** Banco de dados relacional para persistência dos dados.
-* **Docker:** Containerização do ambiente para padronização e execução da aplicação.
-* **Vue.js:** Interface web.
-* **Spring Security:** Autenticação e autorização com JWT.
-* **Hibernate e JPA:** Mapeamento e gerenciamento da persistência dos dados.
+* **Java 22:** Banckend da aplicação;
+* **Spring Boot:** Web, Data JPA, Security e DevTools;
+* **MySQL:** Banco de dados relacional para persistência dos dados;
+* **Docker:** Containerização do ambiente para padronização e execução da aplicação;
+* **Vue.js:** Interface web;
+* **Spring Security - JWT:** Autenticação e autorização com JWT;
+* **Hibernate e JPA:** Mapeamento e gerenciamento da persistência dos dados;
 * **GitHub Projects e Issues:** Organização, acompanhamento das atividades e controle das sprints do projeto.
 
 
@@ -252,14 +235,12 @@ Durante o projeto, enfrentamos um desafio inesperado quando a Product Owner deix
 Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter o andamento do projeto e realizar uma entrega consistente ao final do ciclo de desenvolvimento.
 
 ### 📚 Hard Skills Desenvolvidas
-- **Java 22** 
-- **Spring Boot 3.3.3** 
-- **MySQL**
-- **Docker**
-- **Vue.js** 
-- **Spring Security (JWT)** 
-- **Hibernate/JPA**
-- **GitHub Projects & Issues**
+- **Java 22:** Manutenção e evolução de funcionalidades do backend utilizando a linguagem;
+- **MySQL:** Manipulação e consulta de dados no banco relacional;
+- **Docker:** Utilização do ambiente containerizado para execução da aplicação;
+- **Spring Security - JWT:** Contato com autenticação e autorização utilizando tokens JWT;
+- **Hibernate e JPA:** Utilização do mapeamento objeto-relacional para integração com o banco de dados;
+- **GitHub Projects & Issues:** Acompanhamento das tarefas e organização das atividades da equipe.
 
 ### 💬 Soft Skills Trabalhadas
 
