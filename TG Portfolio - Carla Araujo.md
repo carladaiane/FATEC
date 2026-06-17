@@ -223,7 +223,7 @@ Desenvolver uma plataforma web voltada à manipulação e visualização de dado
 * **MySQL:** Banco de dados relacional para persistência dos dados;
 * **Docker:** Containerização do ambiente para padronização e execução da aplicação;
 * **Vue.js:** Interface web;
-* **Spring Security - JWT:** Autenticação e autorização com JWT;
+* **Spring Security:** Autenticação e autorização com JWT;
 * **Hibernate e JPA:** Mapeamento e gerenciamento da persistência dos dados;
 * **GitHub Projects e Issues:** Organização, acompanhamento das atividades e controle das sprints do projeto.
 
@@ -238,7 +238,7 @@ Apesar das dificuldades, a equipe conseguiu se adaptar ao novo cenário, manter 
 - **Java 22:** Manutenção e evolução de funcionalidades do backend utilizando a linguagem;
 - **MySQL:** Manipulação e consulta de dados no banco relacional;
 - **Docker:** Utilização do ambiente containerizado para execução da aplicação;
-- **Spring Security - JWT:** Contato com autenticação e autorização utilizando tokens JWT;
+- **Spring Security:** Contato com autenticação e autorização utilizando tokens JWT;
 - **Hibernate e JPA:** Utilização do mapeamento objeto-relacional para integração com o banco de dados;
 - **GitHub Projects & Issues:** Acompanhamento das tarefas e organização das atividades da equipe.
 
