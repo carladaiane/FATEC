@@ -57,11 +57,11 @@ Desenvolver um sistema interno de gestão e acompanhamento de scores para a inst
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Python**
-* **Flask**
-* **Bootstrap**
-* **JQuery**
-* **Axios**
+- **Python:** Backend da aplicação;
+- **Flask:** Framework utilizado para criação do backend e desenvolvimento das rotas da aplicação;
+- **Bootstrap:** Estilização e responsividade da interface;
+- **jQuery:** Manipulação de elementos da página e interações no frontend;
+- **Axios:** Para realizar as requisições HTTP entre o frontend e o backend.
   
 ### 👩‍💻 Contribuições Pessoais
 
@@ -110,10 +110,10 @@ Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáti
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Java 22:** Base para o desenvolvimento da aplicação desktop.
-* **JDBC:** Conexão e persistência de dados em banco de dados relacional.
-* **MySQL:** Armazenamento e manipulação dos dados climáticos.
-* **Swing:** Construção da interface gráfica da aplicação.
+* **Java 22:** Base para o desenvolvimento da aplicação desktop;
+* **JDBC:** Conexão e persistência de dados em banco de dados relacional;
+* **MySQL:** Armazenamento e manipulação dos dados climáticos;
+* **Swing:** Construção da interface gráfica da aplicação;
 * **Git e GitHub:** Controle de versão e colaboração entre os integrantes da equipe.
   
 ### 👩‍💻 Contribuições Pessoais
@@ -126,7 +126,7 @@ Também enfrentei dificuldades para cumprir algumas entregas dentro do prazo e p
 
 ### 📚 Hard Skills Desenvolvidas
 
-* **Java:** Meu primeiro contato com java, aprendi conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível.
+* **Java:** Meu primeiro contato com java, aprendi conceitos de orientação a objetos, classes estáticas, separação de responsabilidades e organização do código, contribuindo para um desenvolvimento mais estruturado e manutenível;
 * **SQL:** Iniciando o conhecimento em modelagem, persistência e recuperação de informações.Desenvolvimento de consultas e manipulação de dados em banco de dados relacional.
 
 ### 💬 Soft Skills Trabalhadas
@@ -159,14 +159,14 @@ Desenvolver uma aplicação web para capturar, organizar e disponibilizar grande
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Java 22:** Linguagem base da aplicação, utilizando recursos modernos da JVM.
-* **Spring Boot** Framework principal para desenvolvimento do backend.
-* **Lombok:** Redução de código repetitivo (boilerplate).
-* **Jackson:** Conversão e manipulação de dados em formatos JSON e XML.
-* **MySQL:** Banco de dados relacional.
-* **Jsoup:** Coleta e processamento de dados por meio de web scraping.
-* **Thymeleaf:** Template engine para construção das páginas da aplicação.
-* **Bootstrap:** Estilização e responsividade da interface web.
+* **Java 22:** Linguagem base da aplicação, utilizando recursos modernos da JVM;
+* **Spring Boot** Framework principal para desenvolvimento do backend;
+* **Lombok:** Redução de código repetitivo (boilerplate);
+* **Jackson:** Conversão e manipulação de dados em formatos JSON e XML;
+* **MySQL:** Banco de dados relacional;
+* **Jsoup:** Coleta e processamento de dados por meio de web scraping;
+* **Thymeleaf:** Template engine para construção das páginas da aplicação;
+* **Bootstrap:** Estilização e responsividade da interface web;
 * **Maven:** Gerenciamento de dependências e automação do processo de build.
 
 
@@ -182,9 +182,9 @@ Os principais desafios enfrentados foram técnicos, especialmente relacionados �
 
 ### 📚 Hard Skills Desenvolvidas
 
-- **Spring Data JPA:** Consultas dinâmicas, relacionamentos M:N, paginação
-- **REST API Design:** DTOs, versionamento, tratamento de exceções
-- **Scrum Master:** Conduzir cerimônias, atenção ao prazo, processo e entregas planejadas
+- **Spring Data JPA:** Consultas dinâmicas, relacionamentos M:N, paginação;
+- **REST API Design:** DTOs, versionamento, tratamento de exceções;
+- **Scrum Master:** Conduzir cerimônias, atenção ao prazo, processo e entregas planejadas.
 
 <div align="justify">
   
@@ -269,11 +269,12 @@ Desenvolver uma plataforma analítica web para gestão de projetos, responsável
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Python 3.11 / Django:** Backend.
-* **JavaScript / HTMX:** Frontend.
-* **PostgreSQL:** Banco de dados (OLTP + OLAP/Data Warehouse).
-* **Docker:** Containerização e deploy.
-* **Azure (VM):** Hospedagem em nuvem.
+- **Python 3.11:** Linguagem utilizada no desenvolvimento da aplicação.
+- **Django:** Framework utilizado para desenvolvimento das rotas, APIs da aplicação.
+- **JavaScript | HTMX:** Utilizados no desenvolvimento do frontend e interações dinâmicas da interface.
+- **PostgreSQL:** Banco de dados utilizado para armazenamento e gerenciamento das informações (OLTP + OLAP/Data Warehouse).
+- **Docker:** Utilizado para containerização e padronização do ambiente da aplicação.
+- **Azure (VM):** Utilizado para hospedagem da aplicação em ambiente de nuvem.
 
 ### 👩‍💻 Contribuições Pessoais
 
@@ -292,13 +293,13 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 
 ### 📚 Hard Skills Desenvolvidas
 
-* **Scrum Master:** 
-* **Python / Django:** Apoio no desenvolvimento e validação de funcionalidades relacionadas aos relatórios da aplicação.
+* **Scrum Master:** Conduzir cerimônias atenção ao prazo, processo e entregas planejadas
+* **Django:** Apoio no desenvolvimento e validação de funcionalidades relacionadas aos relatórios da aplicação.
 * **Integração com API do Jira:** Acompanhamento das integrações utilizadas para coleta e processamento de informações do sistema.
 * **PostgreSQL (OLTP/OLAP):** Participação nas discussões sobre estruturação e organização dos dados utilizados pela plataforma.
 * **Docker:** Utilização de ambientes containerizados durante o desenvolvimento do projeto.
 * **Testes:** Colaboração na validação e acompanhamento das funcionalidades de geração de relatórios em PDF.
-* - **Scrum Master:** Conduzir cerimônias atenção ao prazo, processo e entregas planejadas
+
 
   
 ### 💬 Soft Skills
@@ -327,12 +328,13 @@ Desenvolver de uma plataforma analítica web voltada ao tratamento e visualizaç
 
 ### 🛠️ Tecnologias Aplicadas no Projeto
 
-* **Java 21 / Spring Boot:** Backend.
-* **Vue 3 / Vuetify / TypeScript:** Frontend.
-* **PostgreSQL:** Banco de dados principal.
-* **MongoDB:** Banco de dados para logs e auditoria.
-* **Docker:** Containerização e deploy.
-* **Vite:** Build tool do frontend.
+- **Java 21:** Linguagem utilizada no desenvolvimento da aplicação.
+- **Spring Boot:** Framework utilizado para desenvolvimento do backend e criação das funcionalidades da aplicação.
+- **Vue3 | Vuetify | TypeScript:** Tecnologias utilizadas no desenvolvimento do frontend e construção da interface da aplicação.
+- **PostgreSQL:** Banco de dados relacional utilizado para persistência e gerenciamento das informações principais.
+- **MongoDB:** Banco de dados utilizado para armazenamento de logs e registros de auditoria.
+- **Docker:** Utilizado para containerização e padronização do ambiente da aplicação.
+- **Vite:** Ferramenta utilizada para gerenciamento do processo de build e execução do frontend.
 
 ### 👩‍💻 Contribuições Pessoais
 
