@@ -95,7 +95,7 @@ Além disso, a experiência reforçou a importância do **trabalho em equipe**, 
 <details>
   <summary><strong>2° Semestre 2024.1 | Empresa Parceira FATEC</strong></summary>
 
-### Missão
+#### Objetivo
 
 <div align="justify">
 Desenvolver uma aplicação para consolidar, armazenar e analisar dados climáticos de cidades do estado de São Paulo, permitindo a geração de relatórios estatísticos e consultas a partir de informações coletadas por diferentes estações meteorológicas. Projeto para cliente interno (professor).
@@ -145,7 +145,7 @@ Além disso, a experiência reforçou minha **colaboração**, já que foi neces
   
 <div align="justify">
 
-### Missão
+#### Objetivo
 Desenvolver uma aplicação web para capturar, organizar e disponibilizar grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas, permitindo a pesquisa, filtragem e categorização automatizada das informações. Projeto executado em parceria com a GSW (Global Solutions & Web).
 </div>
 
@@ -251,7 +251,7 @@ Além disso, aprimorei minha **Gestão do Tempo**, organizando e priorizando as 
 <details>
   <summary><strong>5° Semestre 2025.2 | Empresa Parceira Necto</strong></summary>
 
-### Missão
+#### Objetivo
 <div align="justify">
 Desenvolver uma plataforma analítica web para gestão de projetos, responsável pela integração de dados via API, consolidação das informações em um Data Warehouse e geração de indicadores, dashboards e relatórios gerenciais. A solução conta com controle de acesso por perfil e foi desenvolvida em parceria com a Necto.
 </div>
@@ -309,7 +309,7 @@ Apesar das dificuldades, a experiência proporcionou um importante aprendizado s
 <details>
   <summary><strong>6° Semestre 2026.1 | Empresa Parceira TECSYS</strong></summary>
   
-### Missão
+#### Objetivo
 <div align="justify">
 Desenvolver de uma plataforma analítica web voltada ao tratamento e visualização de dados públicos da ANEEL, com o objetivo de transformar informações regulatórias em indicadores estruturados que auxiliem na compreensão e análise do setor elétrico brasileiro. Projeto desenvolvido em parceria com a TECSYS.
 </div>
